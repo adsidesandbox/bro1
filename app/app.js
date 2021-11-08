@@ -1,1 +1,1045 @@
-'use strict';var _0x251722=_0x93ef;function _0x4576(){var _0x531175=['Texture','nextFrameInLoop','PROGRESS:\x20','render','721998rmSsbJ','39506hqPRaD','mouseup','touchstart','tint','autoDetectRenderer','parent','fontSize','12yWeXVp','alpha','touchend','stage','cos','sin','AnimatedSprite','TextStyle','push','touchmove','Application','143393fVRnQa','currentFrameCustom','addChild','body','mousemove','interactive','now','from','play','anchor','bold','5110416zMbfbY','touchendoutside','innerWidth','min','view','mouseupoutside','resize','getLocalPosition','Arial','round','durationMsFrame','appendChild','81wdVYLY','7267225vvsZWl','height','log','text','2039165fswJRb','abs','mousedown','#ffffff','currentTime','5972106AjDfkP','length','WHITE','dragging','#000000','Text','DOMContentLoaded','Sprite','renderer','width','set','data','addEventListener','position','innerHeight'];_0x4576=function(){return _0x531175;};return _0x4576();}function _0x93ef(_0x3b8e03,_0x2bff83){var _0x4576cc=_0x4576();return _0x93ef=function(_0x93ef5a,_0x355435){_0x93ef5a=_0x93ef5a-0xef;var _0xc3a212=_0x4576cc[_0x93ef5a];return _0xc3a212;},_0x93ef(_0x3b8e03,_0x2bff83);}(function(_0x2a3674,_0x10e6e8){var _0x1fec62=_0x93ef,_0x4c8ddf=_0x2a3674();while(!![]){try{var _0x51731e=-parseInt(_0x1fec62(0x12d))/0x1+-parseInt(_0x1fec62(0x11b))/0x2*(-parseInt(_0x1fec62(0xfd))/0x3)+-parseInt(_0x1fec62(0x122))/0x4*(parseInt(_0x1fec62(0x102))/0x5)+parseInt(_0x1fec62(0x107))/0x6+parseInt(_0x1fec62(0xfe))/0x7+-parseInt(_0x1fec62(0xf1))/0x8+parseInt(_0x1fec62(0x11a))/0x9;if(_0x51731e===_0x10e6e8)break;else _0x4c8ddf['push'](_0x4c8ddf['shift']());}catch(_0x551688){_0x4c8ddf['push'](_0x4c8ddf['shift']());}}}(_0x4576,0x9c969));window['addEventListener'](_0x251722(0x10d),function(){var _0x348128=_0x251722;const _0x6fcc94=new PIXI[(_0x348128(0x12c))]({'autoResize':!![],'resolution':0x1,'backgroundColor':0xd1e4ef});document[_0x348128(0x130)][_0x348128(0xfc)](_0x6fcc94[_0x348128(0xf5)]);var _0x2634ab=PIXI[_0x348128(0x11f)](window[_0x348128(0xf3)],window[_0x348128(0x115)],{'backgroundColor':0x0}),_0x37766f=Math[_0x348128(0xf4)](window[_0x348128(0xf3)],window[_0x348128(0x115)])*0.11;if(window['innerHeight']>window['innerWidth'])_0x37766f=Math[_0x348128(0xf4)](window[_0x348128(0xf3)],window[_0x348128(0x115)])*0.11;var _0x3e2ec8=Math['min'](window[_0x348128(0xf3)],window[_0x348128(0x115)])*0.1;console[_0x348128(0x100)](_0x37766f),window[_0x348128(0x113)](_0x348128(0xf7),_0x320320);function _0x320320(){var _0x2c646a=_0x348128;_0x37766f=Math[_0x2c646a(0xf4)](window[_0x2c646a(0xf3)],window[_0x2c646a(0x115)])*0.11;if(window[_0x2c646a(0x115)]>window[_0x2c646a(0xf3)])_0x37766f=Math['min'](window['innerWidth'],window[_0x2c646a(0x115)])*0.11;_0x3e2ec8=Math['min'](window[_0x2c646a(0xf3)],window[_0x2c646a(0x115)])*0.1,_0x6fcc94[_0x2c646a(0x10f)][_0x2c646a(0xf7)](window[_0x2c646a(0xf3)],window[_0x2c646a(0x115)]);}_0x320320();var _0x5c5f23=0x0,_0x569ef9=![],_0x3c2e3b=![],_0x16ab84=![],_0xbed165=![],_0x1f6aee=![],_0x2b3bb0=![],_0x17b097=0x0;function _0x48679a(){var _0x3b169=_0x348128;_0x5cdf19[_0x3b169(0x123)]=0x1,_0x1b240f[_0x3b169(0x123)]=0x0,gameSoundStep[_0x3b169(0x106)]=0x0,gameSoundStep['play'](),_0x2b3bb0=!![],_0x3eb82c[_0x3b169(0x123)]=0x1,_0x3b25a8[_0x3b169(0x123)]=0x1,_0x2ee457['alpha']=0x1,_0x3b8c45['alpha']=0x1,_0x9a3598[_0x3b169(0x123)]=0x1,_0x456cf4[_0x3b169(0x123)]=0x1,_0x230d0d['alpha']=0x1;if(_0x3c2e3b==!![])_0x411fdd['alpha']=0x0;else _0x411fdd[_0x3b169(0x123)]=0x1;if(_0x16ab84==!![])_0x2df901[_0x3b169(0x123)]=0x0;else _0x2df901[_0x3b169(0x123)]=0x1;if(_0xbed165==!![])_0x3428a3[_0x3b169(0x123)]=0x0;else _0x3428a3[_0x3b169(0x123)]=0x1;if(_0x1f6aee==!![])_0x203d32['alpha']=0x0;else _0x203d32['alpha']=0x1;if(_0x3c2e3b==!![])_0x411fdd[_0x3b169(0x132)]=![];else _0x411fdd['interactive']=!![];if(_0x16ab84==!![])_0x2df901[_0x3b169(0x132)]=![];else _0x2df901[_0x3b169(0x132)]=!![];if(_0xbed165==!![])_0x3428a3['interactive']=![];else _0x3428a3[_0x3b169(0x132)]=!![];if(_0x1f6aee==!![])_0x203d32[_0x3b169(0x132)]=![];else _0x203d32['interactive']=!![];_0x49cfc2[_0x3b169(0x123)]=0x1,_0x3386ab[_0x3b169(0x123)]=0x0,_0x17bb9c[_0x3b169(0x123)]=0x0,_0x4611b9[_0x3b169(0x123)]=0x0,_0x2de8e6[_0x3b169(0x123)]=0x0,_0x2b6037[_0x3b169(0x132)]=![],_0x37c692[_0x3b169(0x132)]=![],_0x270907[_0x3b169(0x132)]=![],_0x3b69f8[_0x3b169(0x132)]=![];}function _0x1b7096(){var _0x368f56=_0x348128;gameSoundStep[_0x368f56(0x106)]=0x0,gameSoundStep[_0x368f56(0x135)](),_0x5cdf19[_0x368f56(0x123)]=0x0,_0x1b240f[_0x368f56(0x123)]=0x0,_0x2b3bb0=![],_0x3eb82c[_0x368f56(0x123)]=0x0,_0x3b25a8[_0x368f56(0x123)]=0x0,_0x2ee457['alpha']=0x0,_0x3b8c45[_0x368f56(0x123)]=0x0,_0x9a3598[_0x368f56(0x123)]=0x0,_0x456cf4[_0x368f56(0x123)]=0x0,_0x230d0d[_0x368f56(0x123)]=0x0,_0x411fdd[_0x368f56(0x123)]=0x0,_0x2df901['alpha']=0x0,_0x3428a3[_0x368f56(0x123)]=0x0,_0x203d32['alpha']=0x0,_0x49cfc2['alpha']=0x0,_0x3386ab['alpha']=0x0,_0x17bb9c['alpha']=0x0,_0x4611b9['alpha']=0x0,_0x2de8e6['alpha']=0x0,_0x411fdd[_0x368f56(0x132)]=![],_0x2df901[_0x368f56(0x132)]=![],_0x3428a3[_0x368f56(0x132)]=![],_0x203d32[_0x368f56(0x132)]=![];if(_0x3c2e3b==![])_0x2b6037[_0x368f56(0x132)]=!![];if(_0x16ab84==![])_0x37c692[_0x368f56(0x132)]=!![];if(_0xbed165==![])_0x270907['interactive']=!![];if(_0x1f6aee==![])_0x3b69f8[_0x368f56(0x132)]=!![];}var _0x5bec14=new PIXI['Container'](),_0x209343=[],_0x429ba0=[],_0x507c78=new PIXI[(_0x348128(0x116))][(_0x348128(0x134))](backgroundSpriteTextureFile),_0x2a119f=new PIXI[(_0x348128(0x10e))](_0x507c78);_0x2a119f[_0x348128(0xef)][_0x348128(0x111)](0.5,0.5),_0x2a119f['x']=window[_0x348128(0xf3)]/0x2,_0x2a119f['y']=window[_0x348128(0x115)]/0x2,_0x6fcc94['stage'][_0x348128(0x12f)](_0x2a119f);{var _0x144c42=[];for(let _0xac7e42=0x0;_0xac7e42<playerBlankIsoTextureFiles[_0x348128(0x108)];_0xac7e42++){let _0x7b95cd=PIXI[_0x348128(0x116)][_0x348128(0x134)](playerBlankIsoTextureFiles[_0xac7e42]);_0x144c42[_0x348128(0x12a)](_0x7b95cd);}var _0x1b36ea=[];for(let _0x249caf=0x0;_0x249caf<player1IsoTextureFiles['length'];_0x249caf++){let _0x208a43=PIXI['Texture'][_0x348128(0x134)](player1IsoTextureFiles[_0x249caf]);_0x1b36ea['push'](_0x208a43);}var _0x12cabd=[];for(let _0x1c8aeb=0x0;_0x1c8aeb<player1IsoTextureFiles['length'];_0x1c8aeb++){let _0xda12a0=PIXI[_0x348128(0x116)][_0x348128(0x134)](player2IsoTextureFiles[_0x1c8aeb]);_0x12cabd[_0x348128(0x12a)](_0xda12a0);}var _0x2567b3=[];for(let _0x4e1d83=0x0;_0x4e1d83<player3IsoTextureFiles[_0x348128(0x108)];_0x4e1d83++){let _0x28975c=PIXI[_0x348128(0x116)]['from'](player3IsoTextureFiles[_0x4e1d83]);_0x2567b3[_0x348128(0x12a)](_0x28975c);}var _0x3ac72f=[];for(let _0x12adcc=0x0;_0x12adcc<player4IsoTextureFiles[_0x348128(0x108)];_0x12adcc++){let _0x31ce06=PIXI[_0x348128(0x116)]['from'](player4IsoTextureFiles[_0x12adcc]);_0x3ac72f[_0x348128(0x12a)](_0x31ce06);}var _0x2b6037=new PIXI[(_0x348128(0x128))](_0x144c42);_0x2b6037[_0x348128(0xef)][_0x348128(0x111)](0.5,0.5),_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x2b6037),console[_0x348128(0x100)](_0x2b6037[_0x348128(0x12e)]),_0x2b6037['durationMsFrame']=0x2f;var _0x37c692=new PIXI[(_0x348128(0x128))](_0x144c42);_0x37c692[_0x348128(0xef)]['set'](0.5,0.5),_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x37c692),_0x37c692[_0x348128(0xfb)]=0x42;var _0x270907=new PIXI['AnimatedSprite'](_0x144c42);_0x270907[_0x348128(0xef)]['set'](0.5,0.5),_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x270907),_0x270907['durationMsFrame']=0x3b;var _0x3b69f8=new PIXI[(_0x348128(0x128))](_0x144c42);_0x3b69f8['anchor']['set'](0.5,0.5),_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x3b69f8),_0x3b69f8[_0x348128(0xfb)]=0x34;var _0x438e1d=new PIXI[(_0x348128(0x128))](_0x1b36ea);_0x438e1d[_0x348128(0xef)][_0x348128(0x111)](0.5,0.5),_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x438e1d),console[_0x348128(0x100)](_0x438e1d[_0x348128(0x12e)]);var _0x3f748b=new PIXI['AnimatedSprite'](_0x12cabd);_0x3f748b[_0x348128(0xef)][_0x348128(0x111)](0.5,0.5),_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x3f748b);var _0x254d78=new PIXI[(_0x348128(0x128))](_0x2567b3);_0x254d78[_0x348128(0xef)]['set'](0.5,0.5),_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x254d78);var _0x4aab62=new PIXI['AnimatedSprite'](_0x3ac72f);_0x4aab62[_0x348128(0xef)][_0x348128(0x111)](0.5,0.5),_0x6fcc94[_0x348128(0x125)]['addChild'](_0x4aab62),_0x2b6037['interactive']=!![],_0x2b6037['on'](_0x348128(0x104),function(){_0x17b097=0x1,_0x48679a();}),_0x2b6037['on'](_0x348128(0x11d),function(){_0x17b097=0x1,_0x48679a();}),_0x37c692['interactive']=!![],_0x37c692['on'](_0x348128(0x104),function(){_0x17b097=0x2,_0x48679a();}),_0x37c692['on'](_0x348128(0x11d),function(){_0x17b097=0x2,_0x48679a();}),_0x270907[_0x348128(0x132)]=!![],_0x270907['on'](_0x348128(0x104),function(){_0x17b097=0x3,_0x48679a();}),_0x270907['on']('touchstart',function(){_0x17b097=0x3,_0x48679a();}),_0x3b69f8[_0x348128(0x132)]=!![],_0x3b69f8['on'](_0x348128(0x104),function(){_0x17b097=0x4,_0x48679a();}),_0x3b69f8['on']('touchstart',function(){_0x17b097=0x4,_0x48679a();});}const _0x41731b=new PIXI[(_0x348128(0x129))]({'fontFamily':_0x348128(0xf9),'fontSize':_0x37766f*0.5,'fontWeight':_0x348128(0xf0),'fill':[_0x348128(0x105)],'stroke':_0x348128(0x10b),'strokeThickness':0x5,'lineJoin':_0x348128(0xfa)});var _0x25c0a1=new PIXI[(_0x348128(0x10c))](_0x348128(0x118)+_0x5c5f23+'%',_0x41731b);_0x25c0a1['x']=window[_0x348128(0xf3)]-_0x3e2ec8*1.5,_0x25c0a1['y']=_0x3e2ec8,_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x25c0a1);var _0x14fcc0=new PIXI[(_0x348128(0x116))][(_0x348128(0x134))](uiBackgroundSpriteTextureFile),_0x3eb82c=new PIXI[(_0x348128(0x10e))](_0x14fcc0);_0x3eb82c[_0x348128(0xef)]['set'](0.5,0.5),_0x3eb82c['x']=window['innerWidth']/0x2,_0x3eb82c['y']=window[_0x348128(0x115)]/0x2,_0x3eb82c[_0x348128(0x123)]=0x0,_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x3eb82c);{var _0x41f0b4=[];for(let _0x23f7f3=0x0;_0x23f7f3<playerBlankFrontTextureFiles[_0x348128(0x108)];_0x23f7f3++){let _0x1b1c70=PIXI['Texture'][_0x348128(0x134)](playerBlankFrontTextureFiles[_0x23f7f3]);_0x41f0b4[_0x348128(0x12a)](_0x1b1c70);}var _0x566414=[];for(let _0x90662a=0x0;_0x90662a<player1FrontTextureFiles['length'];_0x90662a++){let _0x34a495=PIXI[_0x348128(0x116)][_0x348128(0x134)](player1FrontTextureFiles[_0x90662a]);_0x566414[_0x348128(0x12a)](_0x34a495);}var _0x489c4a=[];for(let _0x545775=0x0;_0x545775<player1FrontTextureFiles[_0x348128(0x108)];_0x545775++){let _0x47ee3f=PIXI[_0x348128(0x116)][_0x348128(0x134)](player2FrontTextureFiles[_0x545775]);_0x489c4a[_0x348128(0x12a)](_0x47ee3f);}var _0x4b4bd6=[];for(let _0x261070=0x0;_0x261070<player3FrontTextureFiles['length'];_0x261070++){let _0x3cbf23=PIXI[_0x348128(0x116)][_0x348128(0x134)](player3FrontTextureFiles[_0x261070]);_0x4b4bd6[_0x348128(0x12a)](_0x3cbf23);}var _0x230a34=[];for(let _0x35b548=0x0;_0x35b548<player4FrontTextureFiles[_0x348128(0x108)];_0x35b548++){let _0x2d76e3=PIXI['Texture'][_0x348128(0x134)](player4FrontTextureFiles[_0x35b548]);_0x230a34[_0x348128(0x12a)](_0x2d76e3);}var _0x49cfc2=new PIXI[(_0x348128(0x128))](_0x41f0b4);_0x49cfc2['anchor'][_0x348128(0x111)](0.5,0.5),_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x49cfc2);var _0x3386ab=new PIXI[(_0x348128(0x128))](_0x566414);_0x3386ab['anchor'][_0x348128(0x111)](0.5,0.5),_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x3386ab);var _0x17bb9c=new PIXI[(_0x348128(0x128))](_0x489c4a);_0x17bb9c[_0x348128(0xef)][_0x348128(0x111)](0.5,0.5),_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x17bb9c);var _0x4611b9=new PIXI['AnimatedSprite'](_0x4b4bd6);_0x4611b9['anchor'][_0x348128(0x111)](0.5,0.5),_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x4611b9);var _0x2de8e6=new PIXI[(_0x348128(0x128))](_0x230a34);_0x2de8e6[_0x348128(0xef)][_0x348128(0x111)](0.5,0.5),_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x2de8e6);}var _0x43cf99=new PIXI[(_0x348128(0x116))]['from'](uiIconBlankTextureFile),_0x3b25a8=new PIXI[(_0x348128(0x10e))](_0x43cf99);_0x3b25a8[_0x348128(0xef)][_0x348128(0x111)](0.5,0.5),_0x3b25a8['x']=window[_0x348128(0xf3)]/0x2,_0x3b25a8['y']=window['innerHeight'],_0x6fcc94['stage'][_0x348128(0x12f)](_0x3b25a8);var _0x14fe2f=new PIXI[(_0x348128(0x116))][(_0x348128(0x134))](uiPanelTextureFile),_0x2ee457=new PIXI['Sprite'](_0x14fe2f);_0x2ee457['anchor'][_0x348128(0x111)](0.5,0.5),_0x2ee457['x']=window[_0x348128(0xf3)]/0x2,_0x2ee457['y']=window[_0x348128(0x115)],_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x2ee457);var _0x7543b1=new PIXI[(_0x348128(0x116))][(_0x348128(0x134))](uiIconEmptyTextureFile),_0x3b8c45=new PIXI['Sprite'](_0x7543b1);_0x3b8c45['anchor'][_0x348128(0x111)](0.5,0.5),_0x3b8c45['x']=window[_0x348128(0xf3)]/0x2,_0x3b8c45['y']=window['innerHeight'],_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x3b8c45);var _0x9a3598=new PIXI[(_0x348128(0x10e))](_0x7543b1);_0x9a3598['anchor'][_0x348128(0x111)](0.5,0.5),_0x9a3598['x']=window[_0x348128(0xf3)]/0x2,_0x9a3598['y']=window['innerHeight'],_0x6fcc94['stage'][_0x348128(0x12f)](_0x9a3598);var _0x456cf4=new PIXI[(_0x348128(0x10e))](_0x7543b1);_0x456cf4[_0x348128(0xef)]['set'](0.5,0.5),_0x456cf4['x']=window[_0x348128(0xf3)]/0x2,_0x456cf4['y']=window[_0x348128(0x115)],_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x456cf4);var _0x230d0d=new PIXI[(_0x348128(0x10e))](_0x7543b1);_0x230d0d[_0x348128(0xef)][_0x348128(0x111)](0.5,0.5),_0x230d0d['x']=window['innerWidth']/0x2,_0x230d0d['y']=window[_0x348128(0x115)],_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x230d0d);var _0x1de0af=new PIXI[(_0x348128(0x116))][(_0x348128(0x134))](uiIcon1TextureFile),_0x411fdd=new PIXI['Sprite'](_0x1de0af);_0x411fdd[_0x348128(0xef)][_0x348128(0x111)](0.5,0.5),_0x411fdd['x']=window[_0x348128(0xf3)]/0x2,_0x411fdd['y']=window[_0x348128(0x115)],_0x6fcc94[_0x348128(0x125)]['addChild'](_0x411fdd);var _0x5d2cf7=new PIXI[(_0x348128(0x116))][(_0x348128(0x134))](uiIcon2TextureFile),_0x2df901=new PIXI['Sprite'](_0x5d2cf7);_0x2df901[_0x348128(0xef)][_0x348128(0x111)](0.5,0.5),_0x2df901['x']=window[_0x348128(0xf3)]/0x2,_0x2df901['y']=window[_0x348128(0x115)],_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x2df901);var _0x24a9cb=new PIXI[(_0x348128(0x116))][(_0x348128(0x134))](uiIcon3TextureFile),_0x3428a3=new PIXI[(_0x348128(0x10e))](_0x24a9cb);_0x3428a3['anchor'][_0x348128(0x111)](0.5,0.5),_0x3428a3['x']=window['innerWidth']/0x2,_0x3428a3['y']=window[_0x348128(0x115)],_0x6fcc94['stage'][_0x348128(0x12f)](_0x3428a3);var _0x217df4=new PIXI[(_0x348128(0x116))][(_0x348128(0x134))](uiIcon4TextureFile),_0x203d32=new PIXI[(_0x348128(0x10e))](_0x217df4);_0x203d32['anchor'][_0x348128(0x111)](0.5,0.5),_0x203d32['x']=window[_0x348128(0xf3)]/0x2,_0x203d32['y']=window[_0x348128(0x115)],_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x203d32);{_0x411fdd[_0x348128(0x10a)]=![],_0x411fdd[_0x348128(0x132)]=!![],_0x411fdd['on'](_0x348128(0x104),_0x12fc3d)['on'](_0x348128(0x11d),_0x12fc3d)['on'](_0x348128(0x11c),_0x21c187)['on'](_0x348128(0xf6),_0x21c187)['on'](_0x348128(0x124),_0x21c187)['on']('touchendoutside',_0x21c187)['on'](_0x348128(0x131),_0x1ab21c)['on'](_0x348128(0x12b),_0x1ab21c);function _0x12fc3d(_0x433998){var _0x2113cd=_0x348128;this[_0x2113cd(0x112)]=_0x433998[_0x2113cd(0x112)],this[_0x2113cd(0x123)]=0.7,this[_0x2113cd(0x10a)]=!![];}function _0x21c187(){var _0x3fd003=_0x348128;Math[_0x3fd003(0x103)](this[_0x3fd003(0x114)]['x']-_0x3b25a8['x'])<_0x3e2ec8*0.75&&_0x17b097==0x1?(gameSoundStep[_0x3fd003(0x106)]=0x0,gameSoundStep['play'](),_0x2b6037['interactive']=![],_0x411fdd[_0x3fd003(0x132)]=![],_0x3c2e3b=!![],_0x5c5f23=_0x5c5f23+0x19,setTimeout(()=>{var _0x263656=_0x3fd003;_0x49cfc2[_0x263656(0x123)]=0x0,_0x3386ab[_0x263656(0x123)]=0x1,gameSoundDone[_0x263656(0x135)]();},0x1f4),setTimeout(()=>{var _0x29cdfa=_0x3fd003;_0x1b240f['alpha']=0x1,gameSoundDone[_0x29cdfa(0x106)]=0x0,gameSoundDone['play']();},0x3e8),setTimeout(()=>{var _0x49ccdb=_0x3fd003;_0x1b7096(),_0x411fdd['alpha']=0x0,_0x411fdd[_0x49ccdb(0x132)]=![];},0x9c4)):(gameSoundStep['currentTime']=0x0,gameSoundStep[_0x3fd003(0x135)]()),this[_0x3fd003(0x10a)]=![],this['data']=null,this['alpha']=0x1;}function _0x1ab21c(){var _0x35dcaa=_0x348128;if(this[_0x35dcaa(0x10a)]){var _0x387c22=this[_0x35dcaa(0x112)]['getLocalPosition'](this[_0x35dcaa(0x120)]);this[_0x35dcaa(0x114)]['x']=_0x387c22['x'],this[_0x35dcaa(0x114)]['y']=_0x387c22['y'];}}_0x2df901['dragging']=![],_0x2df901['interactive']=!![],_0x2df901['on'](_0x348128(0x104),_0x4f4e87)['on'](_0x348128(0x11d),_0x4f4e87)['on'](_0x348128(0x11c),_0x2147e7)['on'](_0x348128(0xf6),_0x2147e7)['on'](_0x348128(0x124),_0x2147e7)['on'](_0x348128(0xf2),_0x2147e7)['on'](_0x348128(0x131),_0x56e1d2)['on'](_0x348128(0x12b),_0x56e1d2);function _0x4f4e87(_0x153bbf){var _0x342ceb=_0x348128;this[_0x342ceb(0x112)]=_0x153bbf[_0x342ceb(0x112)],this['alpha']=0.7,this[_0x342ceb(0x10a)]=!![];}function _0x2147e7(){var _0x5c68fc=_0x348128;Math['abs'](this[_0x5c68fc(0x114)]['x']-_0x3b25a8['x'])<_0x3e2ec8*0.75&&_0x17b097==0x2?(gameSoundStep[_0x5c68fc(0x106)]=0x0,gameSoundStep[_0x5c68fc(0x135)](),_0x37c692['interactive']=![],_0x2df901[_0x5c68fc(0x132)]=![],_0x16ab84=!![],_0x5c5f23=_0x5c5f23+0x19,setTimeout(()=>{var _0x24b3ba=_0x5c68fc;_0x49cfc2[_0x24b3ba(0x123)]=0x0,_0x17bb9c['alpha']=0x1,gameSoundDone[_0x24b3ba(0x135)]();},0x1f4),setTimeout(()=>{var _0x1dc4a3=_0x5c68fc;_0x1b240f[_0x1dc4a3(0x123)]=0x1,gameSoundDone['currentTime']=0x0,gameSoundDone[_0x1dc4a3(0x135)]();},0x3e8),setTimeout(()=>{var _0x742776=_0x5c68fc;_0x1b7096(),_0x2df901[_0x742776(0x123)]=0x0,_0x2df901[_0x742776(0x132)]=![];},0x9c4)):(gameSoundStep[_0x5c68fc(0x106)]=0x0,gameSoundStep['play']()),this[_0x5c68fc(0x10a)]=![],this[_0x5c68fc(0x112)]=null,this[_0x5c68fc(0x123)]=0x1;}function _0x56e1d2(){var _0x5f5de8=_0x348128;if(this['dragging']){var _0x451c02=this[_0x5f5de8(0x112)][_0x5f5de8(0xf8)](this[_0x5f5de8(0x120)]);this[_0x5f5de8(0x114)]['x']=_0x451c02['x'],this['position']['y']=_0x451c02['y'];}}_0x3428a3[_0x348128(0x10a)]=![],_0x3428a3[_0x348128(0x132)]=!![],_0x3428a3['on'](_0x348128(0x104),_0x1e07d8)['on'](_0x348128(0x11d),_0x1e07d8)['on'](_0x348128(0x11c),_0x16bc9d)['on'](_0x348128(0xf6),_0x16bc9d)['on']('touchend',_0x16bc9d)['on'](_0x348128(0xf2),_0x16bc9d)['on']('mousemove',_0x344f6c)['on'](_0x348128(0x12b),_0x344f6c);function _0x1e07d8(_0x48b974){var _0x1305ff=_0x348128;this['data']=_0x48b974[_0x1305ff(0x112)],this[_0x1305ff(0x123)]=0.7,this[_0x1305ff(0x10a)]=!![];}function _0x16bc9d(){var _0x182217=_0x348128;Math[_0x182217(0x103)](this[_0x182217(0x114)]['x']-_0x3b25a8['x'])<_0x3e2ec8*0.75&&_0x17b097==0x3?(gameSoundStep[_0x182217(0x106)]=0x0,gameSoundStep[_0x182217(0x135)](),_0x270907[_0x182217(0x132)]=![],_0x3428a3[_0x182217(0x132)]=![],_0xbed165=!![],_0x5c5f23=_0x5c5f23+0x19,setTimeout(()=>{var _0xddf6ad=_0x182217;_0x49cfc2['alpha']=0x0,_0x4611b9[_0xddf6ad(0x123)]=0x1,gameSoundDone[_0xddf6ad(0x135)]();},0x1f4),setTimeout(()=>{var _0x590ad2=_0x182217;_0x1b240f['alpha']=0x1,gameSoundDone[_0x590ad2(0x106)]=0x0,gameSoundDone[_0x590ad2(0x135)]();},0x3e8),setTimeout(()=>{_0x1b7096(),_0x3428a3['alpha']=0x0,_0x3428a3['interactive']=![];},0x9c4)):(gameSoundStep[_0x182217(0x106)]=0x0,gameSoundStep[_0x182217(0x135)]()),this['dragging']=![],this[_0x182217(0x112)]=null,this[_0x182217(0x123)]=0x1;}function _0x344f6c(){var _0x2ee01b=_0x348128;if(this['dragging']){var _0x424868=this[_0x2ee01b(0x112)][_0x2ee01b(0xf8)](this[_0x2ee01b(0x120)]);this[_0x2ee01b(0x114)]['x']=_0x424868['x'],this['position']['y']=_0x424868['y'];}}_0x203d32[_0x348128(0x10a)]=![],_0x203d32['interactive']=!![],_0x203d32['on']('mousedown',_0x326205)['on']('touchstart',_0x326205)['on'](_0x348128(0x11c),_0x4e3984)['on'](_0x348128(0xf6),_0x4e3984)['on'](_0x348128(0x124),_0x4e3984)['on'](_0x348128(0xf2),_0x4e3984)['on'](_0x348128(0x131),_0x7ee3be)['on'](_0x348128(0x12b),_0x7ee3be);function _0x326205(_0x4e0c2e){this['data']=_0x4e0c2e['data'],this['alpha']=0.7,this['dragging']=!![];}function _0x4e3984(){var _0x209e59=_0x348128;Math[_0x209e59(0x103)](this[_0x209e59(0x114)]['x']-_0x3b25a8['x'])<_0x3e2ec8*0.75&&_0x17b097==0x4?(gameSoundStep[_0x209e59(0x106)]=0x0,gameSoundStep[_0x209e59(0x135)](),_0x3b69f8['interactive']=![],_0x203d32['interactive']=![],_0x1f6aee=!![],_0x5c5f23=_0x5c5f23+0x19,setTimeout(()=>{var _0x3698c9=_0x209e59;_0x49cfc2['alpha']=0x0,_0x2de8e6[_0x3698c9(0x123)]=0x1,gameSoundDone['play']();},0x1f4),setTimeout(()=>{var _0x30c550=_0x209e59;_0x1b240f['alpha']=0x1,gameSoundDone[_0x30c550(0x106)]=0x0,gameSoundDone[_0x30c550(0x135)]();},0x3e8),setTimeout(()=>{var _0x5dd67c=_0x209e59;_0x1b7096(),_0x203d32[_0x5dd67c(0x123)]=0x0,_0x203d32[_0x5dd67c(0x132)]=![];},0x9c4)):(gameSoundStep['currentTime']=0x0,gameSoundStep[_0x209e59(0x135)]()),this[_0x209e59(0x10a)]=![],this[_0x209e59(0x112)]=null,this[_0x209e59(0x123)]=0x1;}function _0x7ee3be(){var _0x3059be=_0x348128;if(this['dragging']){var _0x5f0e43=this[_0x3059be(0x112)]['getLocalPosition'](this[_0x3059be(0x120)]);this[_0x3059be(0x114)]['x']=_0x5f0e43['x'],this[_0x3059be(0x114)]['y']=_0x5f0e43['y'];}}}var _0x19c2e8=new PIXI['Texture'][(_0x348128(0x134))](uiStars1TextureFile),_0x5cdf19=new PIXI['Sprite'](_0x19c2e8);_0x5cdf19[_0x348128(0xef)][_0x348128(0x111)](0.5,0.5),_0x5cdf19['x']=window[_0x348128(0xf3)]/0x2,_0x5cdf19['y']=0x0+_0x3e2ec8,_0x5cdf19[_0x348128(0x110)]=_0x3e2ec8*0x4,_0x5cdf19[_0x348128(0xff)]=_0x3e2ec8*0x1,_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x5cdf19),_0x5cdf19[_0x348128(0x123)]=0x0;var _0x157a8d=new PIXI[(_0x348128(0x116))][(_0x348128(0x134))](uiStars5TextureFile),_0x1b240f=new PIXI[(_0x348128(0x10e))](_0x157a8d);_0x1b240f['anchor']['set'](0.5,0.5),_0x1b240f['x']=window[_0x348128(0xf3)]/0x2,_0x1b240f['y']=0x0+_0x3e2ec8,_0x1b240f['width']=_0x3e2ec8*0x4,_0x1b240f[_0x348128(0xff)]=_0x3e2ec8*0x1,_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x1b240f),_0x1b240f[_0x348128(0x123)]=0x0;var _0x212a1e=PIXI[_0x348128(0x10e)][_0x348128(0x134)](PIXI[_0x348128(0x116)][_0x348128(0x109)]);_0x212a1e['width']=0xc8,_0x212a1e['height']=0xc8,_0x212a1e[_0x348128(0x11e)]=0x0,_0x212a1e[_0x348128(0xef)][_0x348128(0x111)](0.5),_0x212a1e[_0x348128(0x123)]=0x0,_0x6fcc94['stage'][_0x348128(0x12f)](_0x212a1e);var _0x15c8b1=new PIXI[(_0x348128(0x116))][(_0x348128(0x134))](uiHandSpriteTextureFile),_0x5cd248=new PIXI['Sprite'](_0x15c8b1);_0x5cd248[_0x348128(0xef)][_0x348128(0x111)](0x0,0x1),_0x5cd248['x']=window[_0x348128(0xf3)]/0x2,_0x5cd248['y']=window['innerHeight']/0x2,_0x5cd248[_0x348128(0x110)]=_0x37766f*0.2,_0x5cd248['height']=_0x37766f*0.2,_0x6fcc94[_0x348128(0x125)][_0x348128(0x12f)](_0x5cd248),_0x3eb82c[_0x348128(0x123)]=0x0,_0x3b25a8['alpha']=0x0,_0x2ee457[_0x348128(0x123)]=0x0,_0x3b8c45[_0x348128(0x123)]=0x0,_0x9a3598[_0x348128(0x123)]=0x0,_0x456cf4[_0x348128(0x123)]=0x0,_0x230d0d[_0x348128(0x123)]=0x0,_0x411fdd[_0x348128(0x123)]=0x0,_0x2df901[_0x348128(0x123)]=0x0,_0x3428a3['alpha']=0x0,_0x203d32[_0x348128(0x123)]=0x0,_0x49cfc2[_0x348128(0x123)]=0x0,_0x3386ab[_0x348128(0x123)]=0x0,_0x17bb9c[_0x348128(0x123)]=0x0,_0x4611b9['alpha']=0x0,_0x2de8e6['alpha']=0x0;var _0xa78371=0x1,_0x3d8089=0x0,_0x21f8f8=Date[_0x348128(0x133)]();_0x411fdd[_0x348128(0x132)]=![],_0x2df901[_0x348128(0x132)]=![],_0x3428a3['interactive']=![],_0x203d32['interactive']=![],_0x1115b8();function _0x1115b8(){var _0x50a97e=_0x348128;gameSoundLoop[_0x50a97e(0x135)](),requestAnimationFrame(_0x1115b8),_0x3d8089=Date[_0x50a97e(0x133)]()-_0x21f8f8,_0x21f8f8=Date[_0x50a97e(0x133)](),_0x2a119f['x']=window['innerWidth']/0x2,_0x2a119f['y']=window[_0x50a97e(0x115)]/0x2,_0x2a119f[_0x50a97e(0xff)]=_0x37766f*0x12,_0x2a119f[_0x50a97e(0x110)]=_0x37766f*0x12,_0x3eb82c['x']=window[_0x50a97e(0xf3)]/0x2,_0x3eb82c['y']=window[_0x50a97e(0x115)]/0x2,_0x3eb82c[_0x50a97e(0xff)]=window[_0x50a97e(0x115)],_0x3eb82c[_0x50a97e(0x110)]=window[_0x50a97e(0xf3)];if(_0x3c2e3b==![])_0x2b6037[_0x50a97e(0x123)]=0x1;if(_0x3c2e3b==!![])_0x2b6037['alpha']=0x0;if(_0x3c2e3b==![])_0x438e1d['alpha']=0x0;if(_0x3c2e3b==!![])_0x438e1d[_0x50a97e(0x123)]=0x1;if(_0x16ab84==![])_0x37c692[_0x50a97e(0x123)]=0x1;if(_0x16ab84==!![])_0x37c692[_0x50a97e(0x123)]=0x0;if(_0x16ab84==![])_0x3f748b[_0x50a97e(0x123)]=0x0;if(_0x16ab84==!![])_0x3f748b[_0x50a97e(0x123)]=0x1;if(_0xbed165==![])_0x270907[_0x50a97e(0x123)]=0x1;if(_0xbed165==!![])_0x270907['alpha']=0x0;if(_0xbed165==![])_0x254d78['alpha']=0x0;if(_0xbed165==!![])_0x254d78[_0x50a97e(0x123)]=0x1;if(_0x1f6aee==![])_0x3b69f8['alpha']=0x1;if(_0x1f6aee==!![])_0x3b69f8['alpha']=0x0;if(_0x1f6aee==![])_0x4aab62[_0x50a97e(0x123)]=0x0;if(_0x1f6aee==!![])_0x4aab62[_0x50a97e(0x123)]=0x1;_0x2b6037['nextFrameInLoop'](0x0,0xb),_0x37c692[_0x50a97e(0x117)](0x0,0xb),_0x270907[_0x50a97e(0x117)](0x0,0xb),_0x3b69f8['nextFrameInLoop'](0x0,0xb),_0x438e1d[_0x50a97e(0x117)](0x0,0xb),_0x3f748b['nextFrameInLoop'](0x0,0xb),_0x254d78['nextFrameInLoop'](0x0,0xb),_0x4aab62['nextFrameInLoop'](0x0,0xb),_0x49cfc2[_0x50a97e(0x117)](0x0,0xb),_0x3386ab[_0x50a97e(0x117)](0x0,0xb),_0x17bb9c['nextFrameInLoop'](0x0,0xb),_0x4611b9[_0x50a97e(0x117)](0x0,0xb),_0x2de8e6['nextFrameInLoop'](0x0,0xb);{_0x2b6037['x']=window['innerWidth']/0x2-_0x37766f*0.9,_0x2b6037['y']=window[_0x50a97e(0x115)]/0x2-_0x37766f*2.7,_0x2b6037[_0x50a97e(0xff)]=_0x37766f*0x2,_0x2b6037[_0x50a97e(0x110)]=_0x37766f*0x2,_0x37c692['x']=window[_0x50a97e(0xf3)]/0x2-_0x37766f*0x1,_0x37c692['y']=window[_0x50a97e(0x115)]/0x2-_0x37766f*-2.7,_0x37c692[_0x50a97e(0xff)]=_0x37766f*0x2,_0x37c692['width']=_0x37766f*0x2,_0x270907['x']=window[_0x50a97e(0xf3)]/0x2-_0x37766f*0x4,_0x270907['y']=window[_0x50a97e(0x115)]/0x2-_0x37766f*0.4,_0x270907[_0x50a97e(0xff)]=_0x37766f*0x2,_0x270907[_0x50a97e(0x110)]=_0x37766f*0x2,_0x3b69f8['x']=window['innerWidth']/0x2+_0x37766f*2.2,_0x3b69f8['y']=window[_0x50a97e(0x115)]/0x2-_0x37766f*0.3,_0x3b69f8[_0x50a97e(0xff)]=_0x37766f*0x2,_0x3b69f8[_0x50a97e(0x110)]=_0x37766f*0x2,_0x438e1d['x']=window[_0x50a97e(0xf3)]/0x2-_0x37766f*0.9,_0x438e1d['y']=window[_0x50a97e(0x115)]/0x2-_0x37766f*2.7,_0x438e1d['height']=_0x37766f*0x2,_0x438e1d[_0x50a97e(0x110)]=_0x37766f*0x2,_0x3f748b['x']=window[_0x50a97e(0xf3)]/0x2-_0x37766f*0x1,_0x3f748b['y']=window[_0x50a97e(0x115)]/0x2-_0x37766f*-2.7,_0x3f748b[_0x50a97e(0xff)]=_0x37766f*0x2,_0x3f748b['width']=_0x37766f*0x2,_0x254d78['x']=window['innerWidth']/0x2-_0x37766f*0x4,_0x254d78['y']=window['innerHeight']/0x2-_0x37766f*0.4,_0x254d78[_0x50a97e(0xff)]=_0x37766f*0x2,_0x254d78[_0x50a97e(0x110)]=_0x37766f*0x2,_0x4aab62['x']=window['innerWidth']/0x2+_0x37766f*2.2,_0x4aab62['y']=window[_0x50a97e(0x115)]/0x2-_0x37766f*0.3,_0x4aab62[_0x50a97e(0xff)]=_0x37766f*0x2,_0x4aab62['width']=_0x37766f*0x2;}{_0x49cfc2['x']=window[_0x50a97e(0xf3)]/0x2,_0x49cfc2['y']=window[_0x50a97e(0x115)]/0x2-_0x37766f*1.2,_0x3386ab['x']=window[_0x50a97e(0xf3)]/0x2,_0x3386ab['y']=window[_0x50a97e(0x115)]/0x2-_0x37766f*1.2,_0x17bb9c['x']=window['innerWidth']/0x2,_0x17bb9c['y']=window[_0x50a97e(0x115)]/0x2-_0x37766f*1.2,_0x4611b9['x']=window[_0x50a97e(0xf3)]/0x2,_0x4611b9['y']=window[_0x50a97e(0x115)]/0x2-_0x37766f*1.2,_0x2de8e6['x']=window[_0x50a97e(0xf3)]/0x2,_0x2de8e6['y']=window[_0x50a97e(0x115)]/0x2-_0x37766f*1.2,_0x49cfc2[_0x50a97e(0x110)]=_0x49cfc2[_0x50a97e(0xff)]=_0x3386ab['width']=_0x3386ab[_0x50a97e(0xff)]=_0x17bb9c[_0x50a97e(0x110)]=_0x17bb9c[_0x50a97e(0xff)]=_0x4611b9['width']=_0x4611b9[_0x50a97e(0xff)]=_0x2de8e6[_0x50a97e(0x110)]=_0x2de8e6[_0x50a97e(0xff)]=_0x37766f*0x5,window[_0x50a97e(0x115)]>window['innerWidth']&&(_0x49cfc2[_0x50a97e(0x110)]=_0x49cfc2['height']=_0x3386ab[_0x50a97e(0x110)]=_0x3386ab['height']=_0x17bb9c[_0x50a97e(0x110)]=_0x17bb9c[_0x50a97e(0xff)]=_0x4611b9[_0x50a97e(0x110)]=_0x4611b9[_0x50a97e(0xff)]=_0x2de8e6[_0x50a97e(0x110)]=_0x2de8e6[_0x50a97e(0xff)]=_0x37766f*0x9);}let _0x5a2655=0x2,_0x3a8a5f=0.9,_0x3f5f11=_0x3e2ec8*0.2;window['innerHeight']>window[_0x50a97e(0xf3)]&&(_0x5a2655=2.5,_0x3a8a5f=1.2,_0x3f5f11=_0x3e2ec8*0.4);_0x2ee457['x']=window[_0x50a97e(0xf3)]/0x2,_0x2ee457['y']=window[_0x50a97e(0x115)]-_0x3e2ec8*0x1-_0x3f5f11,_0x2ee457[_0x50a97e(0x110)]=_0x3e2ec8*0x7+_0x3a8a5f*_0x3e2ec8*0.5;if(window['innerHeight']>window['innerWidth'])_0x2ee457[_0x50a97e(0x110)]=_0x3e2ec8*0x7+_0x3e2ec8*2.6;_0x2ee457[_0x50a97e(0xff)]=_0x3e2ec8*_0x5a2655,_0x3b25a8['x']=window[_0x50a97e(0xf3)]/0x2,_0x3b25a8['y']=window['innerHeight']-_0x3e2ec8*3.3;if(window[_0x50a97e(0x115)]>window['innerWidth'])_0x3b25a8['y']=window[_0x50a97e(0x115)]-_0x3e2ec8*0x4;_0x3b25a8[_0x50a97e(0x110)]=_0x3e2ec8*_0x5a2655,_0x3b25a8[_0x50a97e(0xff)]=_0x3e2ec8*_0x5a2655;if(_0x411fdd[_0x50a97e(0x10a)]==![])_0x411fdd['x']=window[_0x50a97e(0xf3)]/0x2-_0x3e2ec8*0x3*_0x3a8a5f;if(_0x411fdd[_0x50a97e(0x10a)]==![])_0x411fdd['y']=window[_0x50a97e(0x115)]-_0x3e2ec8*0x1-_0x3f5f11;if(_0x3c2e3b==!![])_0x411fdd['x']=_0x3b25a8['x'];if(_0x3c2e3b==!![])_0x411fdd['y']=_0x3b25a8['y'];_0x411fdd['width']=_0x3e2ec8*_0x5a2655,_0x411fdd[_0x50a97e(0xff)]=_0x3e2ec8*_0x5a2655;if(_0x2df901[_0x50a97e(0x10a)]==![])_0x2df901['x']=window[_0x50a97e(0xf3)]/0x2-_0x3e2ec8*0x1*_0x3a8a5f;if(_0x2df901['dragging']==![])_0x2df901['y']=window['innerHeight']-_0x3e2ec8*0x1-_0x3f5f11;if(_0x16ab84==!![])_0x2df901['x']=_0x3b25a8['x'];if(_0x16ab84==!![])_0x2df901['y']=_0x3b25a8['y'];_0x2df901[_0x50a97e(0x110)]=_0x3e2ec8*_0x5a2655,_0x2df901['height']=_0x3e2ec8*_0x5a2655;if(_0x3428a3['dragging']==![])_0x3428a3['x']=window[_0x50a97e(0xf3)]/0x2+_0x3e2ec8*0x1*_0x3a8a5f;if(_0x3428a3[_0x50a97e(0x10a)]==![])_0x3428a3['y']=window['innerHeight']-_0x3e2ec8*0x1-_0x3f5f11;if(_0xbed165==!![])_0x3428a3['x']=_0x3b25a8['x'];if(_0xbed165==!![])_0x3428a3['y']=_0x3b25a8['y'];_0x3428a3[_0x50a97e(0x110)]=_0x3e2ec8*_0x5a2655,_0x3428a3[_0x50a97e(0xff)]=_0x3e2ec8*_0x5a2655;if(_0x203d32[_0x50a97e(0x10a)]==![])_0x203d32['x']=window[_0x50a97e(0xf3)]/0x2+_0x3e2ec8*0x3*_0x3a8a5f;if(_0x203d32[_0x50a97e(0x10a)]==![])_0x203d32['y']=window['innerHeight']-_0x3e2ec8*0x1-_0x3f5f11;if(_0x1f6aee==!![])_0x203d32['x']=_0x3b25a8['x'];if(_0x1f6aee==!![])_0x203d32['y']=_0x3b25a8['y'];_0x203d32[_0x50a97e(0x110)]=_0x3e2ec8*_0x5a2655,_0x203d32[_0x50a97e(0xff)]=_0x3e2ec8*_0x5a2655,_0x3b8c45['x']=window[_0x50a97e(0xf3)]/0x2-_0x3e2ec8*0x3*_0x3a8a5f,_0x3b8c45['y']=window[_0x50a97e(0x115)]-_0x3e2ec8*0x1-_0x3f5f11,_0x3b8c45['width']=_0x3e2ec8*_0x5a2655,_0x3b8c45[_0x50a97e(0xff)]=_0x3e2ec8*_0x5a2655,_0x9a3598['x']=window['innerWidth']/0x2-_0x3e2ec8*0x1*_0x3a8a5f,_0x9a3598['y']=window[_0x50a97e(0x115)]-_0x3e2ec8*0x1-_0x3f5f11,_0x9a3598[_0x50a97e(0x110)]=_0x3e2ec8*_0x5a2655,_0x9a3598['height']=_0x3e2ec8*_0x5a2655,_0x456cf4['x']=window[_0x50a97e(0xf3)]/0x2+_0x3e2ec8*0x1*_0x3a8a5f,_0x456cf4['y']=window[_0x50a97e(0x115)]-_0x3e2ec8*0x1-_0x3f5f11,_0x456cf4[_0x50a97e(0x110)]=_0x3e2ec8*_0x5a2655,_0x456cf4['height']=_0x3e2ec8*_0x5a2655,_0x230d0d['x']=window['innerWidth']/0x2+_0x3e2ec8*0x3*_0x3a8a5f,_0x230d0d['y']=window['innerHeight']-_0x3e2ec8*0x1-_0x3f5f11,_0x230d0d[_0x50a97e(0x110)]=_0x3e2ec8*_0x5a2655,_0x230d0d[_0x50a97e(0xff)]=_0x3e2ec8*_0x5a2655,_0x5cdf19['x']=_0x1b240f['x']=window[_0x50a97e(0xf3)]/0x2,_0x5cdf19['y']=_0x1b240f['y']=0x0+_0x3e2ec8,_0x5cdf19['width']=_0x1b240f['width']=_0x3e2ec8*0x4,_0x5cdf19[_0x50a97e(0xff)]=_0x1b240f[_0x50a97e(0xff)]=_0x3e2ec8*0x1;if(_0x2b3bb0==![]){let _0x4f85c6=(Math[_0x50a97e(0x127)](Date[_0x50a97e(0x133)]()/0x96)+0x1)/0x2,_0x48c60b=0x0,_0x5bcac3=0x0;if(_0x1f6aee==![])_0x48c60b=_0x3e2ec8;if(_0x1f6aee==![])_0x5bcac3=_0x4aab62['y'];if(_0xbed165==![])_0x48c60b=_0x3e2ec8;if(_0xbed165==![])_0x5bcac3=_0x254d78['y'];if(_0x16ab84==![])_0x48c60b=_0x3e2ec8;if(_0x16ab84==![])_0x5bcac3=_0x3f748b['y'];if(_0x3c2e3b==![])_0x48c60b=_0x3e2ec8;if(_0x3c2e3b==![])_0x5bcac3=_0x438e1d['y'];if(_0x1f6aee==![])_0x5cd248['x']=_0x4aab62['x']+_0x4f85c6*_0x3e2ec8*0.5+_0x3e2ec8*0.2;if(_0x1f6aee==![])_0x5cd248['y']=_0x4aab62['y']-_0x4f85c6*_0x3e2ec8*0.5-_0x3e2ec8*0.2;if(_0xbed165==![])_0x5cd248['x']=_0x254d78['x']+_0x4f85c6*_0x3e2ec8*0.5+_0x3e2ec8*0.2;if(_0xbed165==![])_0x5cd248['y']=_0x254d78['y']-_0x4f85c6*_0x3e2ec8*0.5-_0x3e2ec8*0.2;if(_0x16ab84==![])_0x5cd248['x']=_0x3f748b['x']+_0x4f85c6*_0x3e2ec8*0.5+_0x3e2ec8*0.2;if(_0x16ab84==![])_0x5cd248['y']=_0x3f748b['y']-_0x4f85c6*_0x3e2ec8*0.5-_0x3e2ec8*0.2;if(_0x3c2e3b==![])_0x5cd248['x']=_0x438e1d['x']+_0x4f85c6*_0x3e2ec8*0.5+_0x3e2ec8*0.2;if(_0x3c2e3b==![])_0x5cd248['y']=_0x438e1d['y']-_0x4f85c6*_0x3e2ec8*0.5-_0x3e2ec8*0.2;_0x5cd248[_0x50a97e(0x110)]=_0x3e2ec8*0x1,_0x5cd248['height']=_0x3e2ec8*0x1;}if(_0x2b3bb0==!![]){let _0x5ed0e3=(Math[_0x50a97e(0x127)](Date[_0x50a97e(0x133)]()/0xc8)+0x1)/0x2,_0x424278=0x0,_0x47407a=0x0;if(_0x17b097==0x4)_0x424278=_0x3b25a8['x']-_0x203d32['x'];if(_0x17b097==0x4)_0x47407a=_0x3b25a8['y']-_0x203d32['y'];if(_0x17b097==0x3)_0x424278=_0x3b25a8['x']-_0x3428a3['x'];if(_0x17b097==0x3)_0x47407a=_0x3b25a8['y']-_0x3428a3['y'];if(_0x17b097==0x2)_0x424278=_0x3b25a8['x']-_0x2df901['x'];if(_0x17b097==0x2)_0x47407a=_0x3b25a8['y']-_0x2df901['y'];if(_0x17b097==0x1)_0x424278=_0x3b25a8['x']-_0x411fdd['x'];if(_0x17b097==0x1)_0x47407a=_0x3b25a8['y']-_0x411fdd['y'];_0x5cd248['x']=_0x3b25a8['x']-_0x5ed0e3*_0x424278,_0x5cd248['y']=_0x3b25a8['y']-_0x5ed0e3*_0x47407a,_0x5cd248[_0x50a97e(0x110)]=_0x3e2ec8*0x1,_0x5cd248['height']=_0x3e2ec8*0x1;if(Math[_0x50a97e(0x126)](Date[_0x50a97e(0x133)]()/0xc8)>0x0)_0x5cd248['x']=_0x3b25a8['x'];if(Math[_0x50a97e(0x126)](Date['now']()/0xc8)>0x0)_0x5cd248['y']=_0x3b25a8['y'];}if(_0x3c2e3b==!![]&&_0x16ab84==!![]&&_0xbed165==!![]&&_0x1f6aee==!![])_0x5cd248[_0x50a97e(0x123)]=0x0;if(window[_0x50a97e(0x115)]>window[_0x50a97e(0xf3)])_0x5cd248[_0x50a97e(0x110)]=_0x3e2ec8*0x2;if(window['innerHeight']>window[_0x50a97e(0xf3)])_0x5cd248['height']=_0x3e2ec8*0x2;_0x25c0a1['x']=window[_0x50a97e(0xf3)]-_0x3e2ec8*0x4,_0x25c0a1['y']=_0x3e2ec8*0.3,_0x25c0a1[_0x50a97e(0x101)]=_0x50a97e(0x118)+_0x5c5f23+'%',_0x25c0a1['style'][_0x50a97e(0x121)]=_0x3e2ec8*0.4,_0x2634ab[_0x50a97e(0x119)](_0x5bec14);}});
+'use strict';
+
+window.addEventListener('DOMContentLoaded', function () {
+	var app = new PIXI.Application({ autoResize: true, resolution: 1, backgroundColor: 0xd1e4ef });
+
+	document.body.appendChild(app.view);
+
+	//var renderer = PIXI.autoDetectRenderer(800, 600,{backgroundColor : 0x1099bb});
+	var renderer = PIXI.autoDetectRenderer(window.innerWidth, window.innerHeight, { backgroundColor: 0x000000 });
+
+	var gameBoxSize = Math.min(window.innerWidth, window.innerHeight) * 0.11;
+	if (window.innerHeight > window.innerWidth) gameBoxSize = Math.min(window.innerWidth, window.innerHeight) * 0.11;
+	var gameBoxSizeConst = Math.min(window.innerWidth, window.innerHeight) * 0.1;
+	console.log(gameBoxSize);
+
+	//var gameIntervalIconMultyplicator=0.7;
+
+
+	///
+	window.addEventListener('resize', resize);
+	function resize() {
+
+		gameBoxSize = Math.min(window.innerWidth, window.innerHeight) * 0.11;
+		if (window.innerHeight > window.innerWidth) gameBoxSize = Math.min(window.innerWidth, window.innerHeight) * 0.11;
+		gameBoxSizeConst = Math.min(window.innerWidth, window.innerHeight) * 0.1;
+
+		app.renderer.resize(window.innerWidth, window.innerHeight);
+		//app.renderer.resize(800, 600);
+
+	}
+
+	resize();
+
+	var gameInitialBalance = 0;
+
+	var gameIconInBox = false;
+	var person1done = false;
+	var person2done = false;
+	var person3done = false;
+	var person4done = false;
+
+	var gameUIOpen = false;
+	var gameUIOpenFor = 0;
+
+	function uiOpen() {
+		uiStars1.alpha = 1;
+		uiStars5.alpha = 0;
+		gameSoundStep.currentTime = 0;gameSoundStep.play();
+		gameUIOpen = true;
+		uiBackgroundSprite.alpha = 1;
+		uiIconBlank.alpha = 1;
+		uiPanel.alpha = 1;
+		uiIcon1Empty.alpha = 1;
+		uiIcon2Empty.alpha = 1;
+		uiIcon3Empty.alpha = 1;
+		uiIcon4Empty.alpha = 1;
+
+		if (person1done == true) uiIcon1.alpha = 0;else uiIcon1.alpha = 1;
+		if (person2done == true) uiIcon2.alpha = 0;else uiIcon2.alpha = 1;
+		if (person3done == true) uiIcon3.alpha = 0;else uiIcon3.alpha = 1;
+		if (person4done == true) uiIcon4.alpha = 0;else uiIcon4.alpha = 1;
+
+		if (person1done == true) uiIcon1.interactive = false;else uiIcon1.interactive = true;
+		if (person2done == true) uiIcon2.interactive = false;else uiIcon2.interactive = true;
+		if (person3done == true) uiIcon3.interactive = false;else uiIcon3.interactive = true;
+		if (person4done == true) uiIcon4.interactive = false;else uiIcon4.interactive = true;
+
+		playerFrontBlank.alpha = 1;
+		player1Front.alpha = 0;
+		player2Front.alpha = 0;
+		player3Front.alpha = 0;
+		player4Front.alpha = 0;
+
+		player1IsoBlank.interactive = false;
+		player2IsoBlank.interactive = false;
+		player3IsoBlank.interactive = false;
+		player4IsoBlank.interactive = false;
+	}
+
+	function uiClose() {
+
+		gameSoundStep.currentTime = 0;gameSoundStep.play();
+		uiStars1.alpha = 0;
+		uiStars5.alpha = 0;
+
+		gameUIOpen = false;
+		uiBackgroundSprite.alpha = 0;
+		uiIconBlank.alpha = 0;
+		uiPanel.alpha = 0;
+		uiIcon1Empty.alpha = 0;
+		uiIcon2Empty.alpha = 0;
+		uiIcon3Empty.alpha = 0;
+		uiIcon4Empty.alpha = 0;
+		uiIcon1.alpha = 0;
+		uiIcon2.alpha = 0;
+		uiIcon3.alpha = 0;
+		uiIcon4.alpha = 0;
+
+		playerFrontBlank.alpha = 0;
+		player1Front.alpha = 0;
+		player2Front.alpha = 0;
+		player3Front.alpha = 0;
+		player4Front.alpha = 0;
+
+		uiIcon1.interactive = false;
+		uiIcon2.interactive = false;
+		uiIcon3.interactive = false;
+		uiIcon4.interactive = false;
+
+		if (person1done == false) player1IsoBlank.interactive = true;
+		if (person2done == false) player2IsoBlank.interactive = true;
+		if (person3done == false) player3IsoBlank.interactive = true;
+		if (person4done == false) player4IsoBlank.interactive = true;
+	}
+
+	var stage = new PIXI.Container();
+	var animatedSprite = [];
+	var enemyUnits = [];
+
+	//BG
+	var backgroundSpriteTexture = new PIXI.Texture.from(backgroundSpriteTextureFile);
+	var backgroundSprite = new PIXI.Sprite(backgroundSpriteTexture);
+	backgroundSprite.anchor.set(0.5, 0.5);
+	backgroundSprite.x = window.innerWidth / 2;
+	backgroundSprite.y = window.innerHeight / 2;
+	app.stage.addChild(backgroundSprite);
+
+	//COINS
+	{
+		var uiCoins1 = [];
+		var uiCoins2 = [];
+		var uiBonus1Texture = new PIXI.Texture.from(uiBonus1TextureFile);
+		var uiBonus2Texture = new PIXI.Texture.from(uiBonus2TextureFile);
+
+		for (var i = 0; i < 8; i++) {
+			uiCoins1[i] = new PIXI.Sprite(uiBonus1Texture);
+			uiCoins1[i].pointToTop = 0;
+			if (i % 2 == 0) uiCoins1[i].pointToTop = 500;
+			uiCoins1[i].shiftX = 0;
+			app.stage.addChild(uiCoins1[i]);
+
+			uiCoins2[i] = new PIXI.Sprite(uiBonus2Texture);
+			uiCoins2[i].pointToTop = 0;
+			if (i % 2 == 0) uiCoins1[i].pointToTop = 500;
+			uiCoins2[i].shiftX = 0;
+			app.stage.addChild(uiCoins2[i]);
+		}
+	}
+
+	//Characters ISO
+	{
+		var playerBlankIsoTexture = [];
+		for (var _i = 0; _i < playerBlankIsoTextureFiles.length; _i++) {
+			var texture = PIXI.Texture.from(playerBlankIsoTextureFiles[_i]);
+			playerBlankIsoTexture.push(texture);
+		}
+
+		var player1lankIsoTexture = [];
+		for (var _i2 = 0; _i2 < player1IsoTextureFiles.length; _i2++) {
+			var _texture = PIXI.Texture.from(player1IsoTextureFiles[_i2]);
+			player1lankIsoTexture.push(_texture);
+		}
+
+		var player2lankIsoTexture = [];
+		for (var _i3 = 0; _i3 < player1IsoTextureFiles.length; _i3++) {
+			var _texture2 = PIXI.Texture.from(player2IsoTextureFiles[_i3]);
+			player2lankIsoTexture.push(_texture2);
+		}
+
+		var player3lankIsoTexture = [];
+		for (var _i4 = 0; _i4 < player3IsoTextureFiles.length; _i4++) {
+			var _texture3 = PIXI.Texture.from(player3IsoTextureFiles[_i4]);
+			player3lankIsoTexture.push(_texture3);
+		}
+
+		var player4lankIsoTexture = [];
+		for (var _i5 = 0; _i5 < player4IsoTextureFiles.length; _i5++) {
+			var _texture4 = PIXI.Texture.from(player4IsoTextureFiles[_i5]);
+			player4lankIsoTexture.push(_texture4);
+		}
+
+		///
+		var player1IsoBlank = new PIXI.AnimatedSprite(playerBlankIsoTexture);
+		player1IsoBlank.anchor.set(0.5, 0.5);
+		app.stage.addChild(player1IsoBlank);
+		console.log(player1IsoBlank.currentFrameCustom);
+		player1IsoBlank.durationMsFrame = 47;
+
+		var player2IsoBlank = new PIXI.AnimatedSprite(playerBlankIsoTexture);
+		player2IsoBlank.anchor.set(0.5, 0.5);
+		app.stage.addChild(player2IsoBlank);
+		player2IsoBlank.durationMsFrame = 66;
+
+		var player3IsoBlank = new PIXI.AnimatedSprite(playerBlankIsoTexture);
+		player3IsoBlank.anchor.set(0.5, 0.5);
+		app.stage.addChild(player3IsoBlank);
+		player3IsoBlank.durationMsFrame = 59;
+
+		var player4IsoBlank = new PIXI.AnimatedSprite(playerBlankIsoTexture);
+		player4IsoBlank.anchor.set(0.5, 0.5);
+		app.stage.addChild(player4IsoBlank);
+		player4IsoBlank.durationMsFrame = 52;
+		///
+
+		var player1Iso = new PIXI.AnimatedSprite(player1lankIsoTexture);
+		player1Iso.anchor.set(0.5, 0.5);
+		app.stage.addChild(player1Iso);
+		console.log(player1Iso.currentFrameCustom);
+
+		var player2Iso = new PIXI.AnimatedSprite(player2lankIsoTexture);
+		player2Iso.anchor.set(0.5, 0.5);
+		app.stage.addChild(player2Iso);
+
+		var player3Iso = new PIXI.AnimatedSprite(player3lankIsoTexture);
+		player3Iso.anchor.set(0.5, 0.5);
+		app.stage.addChild(player3Iso);
+
+		var player4Iso = new PIXI.AnimatedSprite(player4lankIsoTexture);
+		player4Iso.anchor.set(0.5, 0.5);
+		app.stage.addChild(player4Iso);
+
+		player1IsoBlank.interactive = true;
+		player1IsoBlank.on('mousedown', function () {
+			gameUIOpenFor = 1;uiOpen();
+		});
+		player1IsoBlank.on('touchstart', function () {
+			gameUIOpenFor = 1;uiOpen();
+		});
+
+		player2IsoBlank.interactive = true;
+		player2IsoBlank.on('mousedown', function () {
+			gameUIOpenFor = 2;uiOpen();
+		});
+		player2IsoBlank.on('touchstart', function () {
+			gameUIOpenFor = 2;uiOpen();
+		});
+
+		player3IsoBlank.interactive = true;
+		player3IsoBlank.on('mousedown', function () {
+			gameUIOpenFor = 3;uiOpen();
+		});
+		player3IsoBlank.on('touchstart', function () {
+			gameUIOpenFor = 3;uiOpen();
+		});
+
+		player4IsoBlank.interactive = true;
+		player4IsoBlank.on('mousedown', function () {
+			gameUIOpenFor = 4;uiOpen();
+		});
+		player4IsoBlank.on('touchstart', function () {
+			gameUIOpenFor = 4;uiOpen();
+		});
+	}
+
+	var basicTextStyle = new PIXI.TextStyle({
+		fontFamily: 'Arial',
+		fontSize: gameBoxSize * 0.5,
+		fontWeight: 'bold',
+		fill: ['#ffffff'],
+		stroke: '#000000',
+		strokeThickness: 5,
+		lineJoin: 'round'
+	});
+
+	var basicText = new PIXI.Text('PROGRESS: ' + gameInitialBalance + '%', basicTextStyle);
+	basicText.x = window.innerWidth - gameBoxSizeConst * 1.5;
+	basicText.y = gameBoxSizeConst;
+
+	app.stage.addChild(basicText);
+
+	// UI
+
+
+	var uiBackgroundSpriteTexture = new PIXI.Texture.from(uiBackgroundSpriteTextureFile);
+	var uiBackgroundSprite = new PIXI.Sprite(uiBackgroundSpriteTexture);
+	uiBackgroundSprite.anchor.set(0.5, 0.5);
+	uiBackgroundSprite.x = window.innerWidth / 2;
+	uiBackgroundSprite.y = window.innerHeight / 2;
+	uiBackgroundSprite.alpha = 0;
+	app.stage.addChild(uiBackgroundSprite);
+
+	// FRONT SPRITES
+	{
+		var playerBlankFrontTexture = [];
+		for (var _i6 = 0; _i6 < playerBlankFrontTextureFiles.length; _i6++) {
+			var _texture5 = PIXI.Texture.from(playerBlankFrontTextureFiles[_i6]);
+			playerBlankFrontTexture.push(_texture5);
+		}
+
+		var player1FrontTexture = [];
+		for (var _i7 = 0; _i7 < player1FrontTextureFiles.length; _i7++) {
+			var _texture6 = PIXI.Texture.from(player1FrontTextureFiles[_i7]);
+			player1FrontTexture.push(_texture6);
+		}
+
+		var player2FrontTexture = [];
+		for (var _i8 = 0; _i8 < player1FrontTextureFiles.length; _i8++) {
+			var _texture7 = PIXI.Texture.from(player2FrontTextureFiles[_i8]);
+			player2FrontTexture.push(_texture7);
+		}
+
+		var player3FrontTexture = [];
+		for (var _i9 = 0; _i9 < player3FrontTextureFiles.length; _i9++) {
+			var _texture8 = PIXI.Texture.from(player3FrontTextureFiles[_i9]);
+			player3FrontTexture.push(_texture8);
+		}
+
+		var player4FrontTexture = [];
+		for (var _i10 = 0; _i10 < player4FrontTextureFiles.length; _i10++) {
+			var _texture9 = PIXI.Texture.from(player4FrontTextureFiles[_i10]);
+			player4FrontTexture.push(_texture9);
+		}
+
+		///
+		var playerFrontBlank = new PIXI.AnimatedSprite(playerBlankFrontTexture);
+		playerFrontBlank.anchor.set(0.5, 0.5);
+		app.stage.addChild(playerFrontBlank);
+
+		///
+
+		var player1Front = new PIXI.AnimatedSprite(player1FrontTexture);
+		player1Front.anchor.set(0.5, 0.5);
+		app.stage.addChild(player1Front);
+
+		var player2Front = new PIXI.AnimatedSprite(player2FrontTexture);
+		player2Front.anchor.set(0.5, 0.5);
+		app.stage.addChild(player2Front);
+
+		var player3Front = new PIXI.AnimatedSprite(player3FrontTexture);
+		player3Front.anchor.set(0.5, 0.5);
+		app.stage.addChild(player3Front);
+
+		var player4Front = new PIXI.AnimatedSprite(player4FrontTexture);
+		player4Front.anchor.set(0.5, 0.5);
+		app.stage.addChild(player4Front);
+	}
+
+	var uiIconBlankTexture = new PIXI.Texture.from(uiIconBlankTextureFile);
+	var uiIconBlank = new PIXI.Sprite(uiIconBlankTexture);
+	uiIconBlank.anchor.set(0.5, 0.5);
+	uiIconBlank.x = window.innerWidth / 2;
+	uiIconBlank.y = window.innerHeight;
+	app.stage.addChild(uiIconBlank);
+
+	var uiPanelTexture = new PIXI.Texture.from(uiPanelTextureFile);
+	var uiPanel = new PIXI.Sprite(uiPanelTexture);
+	uiPanel.anchor.set(0.5, 0.5);
+	uiPanel.x = window.innerWidth / 2;
+	uiPanel.y = window.innerHeight;
+	app.stage.addChild(uiPanel);
+
+	///
+
+	var uiIconEmptyTexture = new PIXI.Texture.from(uiIconEmptyTextureFile);
+
+	var uiIcon1Empty = new PIXI.Sprite(uiIconEmptyTexture);
+	uiIcon1Empty.anchor.set(0.5, 0.5);
+	uiIcon1Empty.x = window.innerWidth / 2;
+	uiIcon1Empty.y = window.innerHeight;
+	app.stage.addChild(uiIcon1Empty);
+
+	var uiIcon2Empty = new PIXI.Sprite(uiIconEmptyTexture);
+	uiIcon2Empty.anchor.set(0.5, 0.5);
+	uiIcon2Empty.x = window.innerWidth / 2;
+	uiIcon2Empty.y = window.innerHeight;
+	app.stage.addChild(uiIcon2Empty);
+
+	var uiIcon3Empty = new PIXI.Sprite(uiIconEmptyTexture);
+	uiIcon3Empty.anchor.set(0.5, 0.5);
+	uiIcon3Empty.x = window.innerWidth / 2;
+	uiIcon3Empty.y = window.innerHeight;
+	app.stage.addChild(uiIcon3Empty);
+
+	var uiIcon4Empty = new PIXI.Sprite(uiIconEmptyTexture);
+	uiIcon4Empty.anchor.set(0.5, 0.5);
+	uiIcon4Empty.x = window.innerWidth / 2;
+	uiIcon4Empty.y = window.innerHeight;
+	app.stage.addChild(uiIcon4Empty);
+
+	///
+
+	var uiIcon1Texture = new PIXI.Texture.from(uiIcon1TextureFile);
+	var uiIcon1 = new PIXI.Sprite(uiIcon1Texture);
+	uiIcon1.anchor.set(0.5, 0.5);
+	uiIcon1.x = window.innerWidth / 2;
+	uiIcon1.y = window.innerHeight;
+	app.stage.addChild(uiIcon1);
+
+	var uiIcon2Texture = new PIXI.Texture.from(uiIcon2TextureFile);
+	var uiIcon2 = new PIXI.Sprite(uiIcon2Texture);
+	uiIcon2.anchor.set(0.5, 0.5);
+	uiIcon2.x = window.innerWidth / 2;
+	uiIcon2.y = window.innerHeight;
+	app.stage.addChild(uiIcon2);
+
+	var uiIcon3Texture = new PIXI.Texture.from(uiIcon3TextureFile);
+	var uiIcon3 = new PIXI.Sprite(uiIcon3Texture);
+	uiIcon3.anchor.set(0.5, 0.5);
+	uiIcon3.x = window.innerWidth / 2;
+	uiIcon3.y = window.innerHeight;
+	app.stage.addChild(uiIcon3);
+
+	var uiIcon4Texture = new PIXI.Texture.from(uiIcon4TextureFile);
+	var uiIcon4 = new PIXI.Sprite(uiIcon4Texture);
+	uiIcon4.anchor.set(0.5, 0.5);
+	uiIcon4.x = window.innerWidth / 2;
+	uiIcon4.y = window.innerHeight;
+	app.stage.addChild(uiIcon4);
+
+	////////dragging
+	{
+		var onDragStart1 = function onDragStart1(event) {
+			// store a reference to the data
+			// the reason for this is because of multitouch
+			// we want to track the movement of this particular touch
+			this.data = event.data;
+			this.alpha = 0.7;
+			this.dragging = true;
+		};
+
+		var onDragEnd1 = function onDragEnd1() {
+			if (Math.abs(this.position.x - uiIconBlank.x) < gameBoxSizeConst * 0.75 && gameUIOpenFor == 1) {
+				gameSoundStep.currentTime = 0;gameSoundStep.play();
+				player1IsoBlank.interactive = false;
+				uiIcon1.interactive = false;
+				person1done = true;
+				gameInitialBalance = gameInitialBalance + 25;
+
+				setTimeout(function () {
+					playerFrontBlank.alpha = 0;player1Front.alpha = 1;gameSoundDone.play();
+				}, 500);
+				setTimeout(function () {
+					uiStars5.alpha = 1;gameSoundDone.currentTime = 0;gameSoundDone.play();
+				}, 1000);
+				setTimeout(function () {
+					uiClose();uiIcon1.alpha = 0;uiIcon1.interactive = false;
+				}, 2500);
+			} else {
+				gameSoundStep.currentTime = 0;gameSoundStep.play();
+			}
+
+			this.dragging = false;
+			this.data = null;
+			this.alpha = 1;
+		};
+
+		var onDragMove1 = function onDragMove1() {
+			if (this.dragging) {
+				var newPosition = this.data.getLocalPosition(this.parent);
+				this.position.x = newPosition.x;
+				this.position.y = newPosition.y;
+			}
+		};
+
+		var onDragStart2 = function onDragStart2(event) {
+			// store a reference to the data
+			// the reason for this is because of multitouch
+			// we want to track the movement of this particular touch
+			this.data = event.data;
+			this.alpha = 0.7;
+			this.dragging = true;
+		};
+
+		var onDragEnd2 = function onDragEnd2() {
+
+			if (Math.abs(this.position.x - uiIconBlank.x) < gameBoxSizeConst * 0.75 && gameUIOpenFor == 2) {
+				gameSoundStep.currentTime = 0;gameSoundStep.play();
+
+				player2IsoBlank.interactive = false;
+				uiIcon2.interactive = false;
+				person2done = true;
+				gameInitialBalance = gameInitialBalance + 25;
+
+				setTimeout(function () {
+					playerFrontBlank.alpha = 0;player2Front.alpha = 1;gameSoundDone.play();
+				}, 500);
+				setTimeout(function () {
+					uiStars5.alpha = 1;gameSoundDone.currentTime = 0;gameSoundDone.play();
+				}, 1000);
+				setTimeout(function () {
+					uiClose();uiIcon2.alpha = 0;uiIcon2.interactive = false;
+				}, 2500);
+			} else {
+				gameSoundStep.currentTime = 0;gameSoundStep.play();
+			}
+			this.dragging = false;
+			this.data = null;
+			this.alpha = 1;
+		};
+
+		var onDragMove2 = function onDragMove2() {
+			if (this.dragging) {
+				var newPosition = this.data.getLocalPosition(this.parent);
+				this.position.x = newPosition.x;
+				this.position.y = newPosition.y;
+			}
+		};
+
+		var onDragStart3 = function onDragStart3(event) {
+			// store a reference to the data
+			// the reason for this is because of multitouch
+			// we want to track the movement of this particular touch
+			this.data = event.data;
+			this.alpha = 0.7;
+			this.dragging = true;
+		};
+
+		var onDragEnd3 = function onDragEnd3() {
+			if (Math.abs(this.position.x - uiIconBlank.x) < gameBoxSizeConst * 0.75 && gameUIOpenFor == 3) {
+				gameSoundStep.currentTime = 0;gameSoundStep.play();
+				player3IsoBlank.interactive = false;
+				uiIcon3.interactive = false;
+				person3done = true;
+				gameInitialBalance = gameInitialBalance + 25;
+
+				setTimeout(function () {
+					playerFrontBlank.alpha = 0;player3Front.alpha = 1;gameSoundDone.play();
+				}, 500);
+				setTimeout(function () {
+					uiStars5.alpha = 1;gameSoundDone.currentTime = 0;gameSoundDone.play();
+				}, 1000);
+				setTimeout(function () {
+					uiClose();uiIcon3.alpha = 0;uiIcon3.interactive = false;
+				}, 2500);
+			} else {
+				gameSoundStep.currentTime = 0;gameSoundStep.play();
+			}
+
+			this.dragging = false;
+			this.data = null;
+			this.alpha = 1;
+		};
+
+		var onDragMove3 = function onDragMove3() {
+			if (this.dragging) {
+				var newPosition = this.data.getLocalPosition(this.parent);
+				this.position.x = newPosition.x;
+				this.position.y = newPosition.y;
+			}
+		};
+
+		var onDragStart4 = function onDragStart4(event) {
+			// store a reference to the data
+			// the reason for this is because of multitouch
+			// we want to track the movement of this particular touch
+			this.data = event.data;
+			this.alpha = 0.7;
+			this.dragging = true;
+		};
+
+		var onDragEnd4 = function onDragEnd4() {
+			if (Math.abs(this.position.x - uiIconBlank.x) < gameBoxSizeConst * 0.75 && gameUIOpenFor == 4) {
+				gameSoundStep.currentTime = 0;gameSoundStep.play();
+				player4IsoBlank.interactive = false;
+				uiIcon4.interactive = false;
+				person4done = true;
+				gameInitialBalance = gameInitialBalance + 25;
+
+				setTimeout(function () {
+					playerFrontBlank.alpha = 0;player4Front.alpha = 1;gameSoundDone.play();
+				}, 500);
+				setTimeout(function () {
+					uiStars5.alpha = 1;gameSoundDone.currentTime = 0;gameSoundDone.play();
+				}, 1000);
+				setTimeout(function () {
+					uiClose();uiIcon4.alpha = 0;uiIcon4.interactive = false;
+				}, 2500);
+			} else {
+				gameSoundStep.currentTime = 0;gameSoundStep.play();
+			}
+
+			this.dragging = false;
+			this.data = null;
+			this.alpha = 1;
+		};
+
+		var onDragMove4 = function onDragMove4() {
+			if (this.dragging) {
+				var newPosition = this.data.getLocalPosition(this.parent);
+				this.position.x = newPosition.x;
+				this.position.y = newPosition.y;
+			}
+		};
+
+		///
+
+
+		uiIcon1.dragging = false;
+		uiIcon1.interactive = true;
+		uiIcon1.on('mousedown', onDragStart1).on('touchstart', onDragStart1).on('mouseup', onDragEnd1).on('mouseupoutside', onDragEnd1).on('touchend', onDragEnd1).on('touchendoutside', onDragEnd1).on('mousemove', onDragMove1).on('touchmove', onDragMove1);
+
+		uiIcon2.dragging = false;
+		uiIcon2.interactive = true;
+		uiIcon2.on('mousedown', onDragStart2).on('touchstart', onDragStart2).on('mouseup', onDragEnd2).on('mouseupoutside', onDragEnd2).on('touchend', onDragEnd2).on('touchendoutside', onDragEnd2).on('mousemove', onDragMove2).on('touchmove', onDragMove2);
+
+		uiIcon3.dragging = false;
+		uiIcon3.interactive = true;
+		uiIcon3.on('mousedown', onDragStart3).on('touchstart', onDragStart3).on('mouseup', onDragEnd3).on('mouseupoutside', onDragEnd3).on('touchend', onDragEnd3).on('touchendoutside', onDragEnd3).on('mousemove', onDragMove3).on('touchmove', onDragMove3);
+
+		uiIcon4.dragging = false;
+		uiIcon4.interactive = true;
+		uiIcon4.on('mousedown', onDragStart4).on('touchstart', onDragStart4).on('mouseup', onDragEnd4).on('mouseupoutside', onDragEnd4).on('touchend', onDragEnd4).on('touchendoutside', onDragEnd4).on('mousemove', onDragMove4).on('touchmove', onDragMove4);
+	}
+
+	var uiStars1Texture = new PIXI.Texture.from(uiStars1TextureFile);
+	var uiStars1 = new PIXI.Sprite(uiStars1Texture);
+	uiStars1.anchor.set(0.5, 0.5);
+	uiStars1.x = window.innerWidth / 2;
+	uiStars1.y = 0 + gameBoxSizeConst;
+	uiStars1.width = gameBoxSizeConst * 4;
+	uiStars1.height = gameBoxSizeConst * 1;
+	app.stage.addChild(uiStars1);
+	uiStars1.alpha = 0;
+
+	var uiStars5Texture = new PIXI.Texture.from(uiStars5TextureFile);
+	var uiStars5 = new PIXI.Sprite(uiStars5Texture);
+	uiStars5.anchor.set(0.5, 0.5);
+	uiStars5.x = window.innerWidth / 2;
+	uiStars5.y = 0 + gameBoxSizeConst;
+	uiStars5.width = gameBoxSizeConst * 4;
+	uiStars5.height = gameBoxSizeConst * 1;
+	app.stage.addChild(uiStars5);
+	uiStars5.alpha = 0;
+
+	//fade _box
+	var fadeLayer = PIXI.Sprite.from(PIXI.Texture.WHITE);
+	fadeLayer.width = 200;
+	fadeLayer.height = 200;
+	fadeLayer.tint = 0x000000;
+	fadeLayer.anchor.set(0.5);
+	fadeLayer.alpha = 0.5;
+	app.stage.addChild(fadeLayer);
+
+	//uiHandSpriteTextureFile
+	var uiHandSpriteTexture = new PIXI.Texture.from(uiHandSpriteTextureFile);
+	var uiHandSprite = new PIXI.Sprite(uiHandSpriteTexture);
+	uiHandSprite.anchor.set(0, 1);
+	uiHandSprite.x = window.innerWidth / 2;
+	uiHandSprite.y = window.innerHeight / 2;
+	uiHandSprite.width = gameBoxSize * 0.2;
+	uiHandSprite.height = gameBoxSize * 0.2;
+	app.stage.addChild(uiHandSprite);
+
+	///
+
+	var uiTextSpriteTexture = new PIXI.Texture.from(uiTextSpriteTextureFile);
+	var uiTextSprite = new PIXI.Sprite(uiTextSpriteTexture);
+	uiTextSprite.anchor.set(0.5, 0.5);
+	uiTextSprite.x = window.innerWidth / 2;
+	uiTextSprite.y = window.innerHeight / 2;
+	app.stage.addChild(uiTextSprite);
+
+	uiBackgroundSprite.alpha = 0;
+	uiIconBlank.alpha = 0;
+	uiPanel.alpha = 0;
+
+	uiIcon1Empty.alpha = 0;
+	uiIcon2Empty.alpha = 0;
+	uiIcon3Empty.alpha = 0;
+	uiIcon4Empty.alpha = 0;
+
+	uiIcon1.alpha = 0;
+	uiIcon2.alpha = 0;
+	uiIcon3.alpha = 0;
+	uiIcon4.alpha = 0;
+
+	playerFrontBlank.alpha = 0;
+	player1Front.alpha = 0;
+	player2Front.alpha = 0;
+	player3Front.alpha = 0;
+	player4Front.alpha = 0;
+
+	var gamePhase = 1;
+	var gameStarted = false;
+	var gameAssetsLoaded = false;
+	var gameDelta = 0;
+	var gameLastTimeForDelta = Date.now();
+
+	uiIcon1.interactive = false;
+	uiIcon2.interactive = false;
+	uiIcon3.interactive = false;
+	uiIcon4.interactive = false;
+
+	// start animating
+	animate();
+	function animate() {
+		app.stage.alpha = 1;
+		if (gameAssetsLoaded == false) {
+
+			var assetsLoadedTotal = 0;
+
+			if (backgroundSpriteTexture.valid == true) assetsLoadedTotal++;
+			if (uiHandSpriteTexture.valid == true) assetsLoadedTotal++;
+			if (uiTextSpriteTexture.valid == true) assetsLoadedTotal++;
+
+			for (var _i11 = 0; _i11 < playerBlankIsoTexture.length; _i11++) {
+				if (playerBlankIsoTexture[_i11].valid == true) assetsLoadedTotal++;
+			}
+
+			if (assetsLoadedTotal == 15)
+				//if (assetsLoadedTotal>11)
+				{
+
+					setTimeout(function () {
+						fadeLayer.alpha = 0;uiTextSprite.alpha = 0;
+					}, 3000);
+
+					gameAssetsLoaded = true;
+					//	setTimeout(gameStartFunction, 4000);
+					// document.getElementsByTagName('canvas')[0].style.display='';
+					document.getElementById('loader').remove();
+					document.getElementById('loader2').remove();
+				}
+			app.stage.alpha = 0;
+		}
+
+		gameSoundLoop.play();
+		requestAnimationFrame(animate);
+
+		gameDelta = Date.now() - gameLastTimeForDelta;
+		gameLastTimeForDelta = Date.now();
+
+		backgroundSprite.x = window.innerWidth / 2;
+		backgroundSprite.y = window.innerHeight / 2;
+		backgroundSprite.height = gameBoxSize * 18;
+		backgroundSprite.width = gameBoxSize * 18;
+
+		uiBackgroundSprite.x = window.innerWidth / 2;
+		uiBackgroundSprite.y = window.innerHeight / 2;
+		uiBackgroundSprite.height = window.innerHeight;
+		uiBackgroundSprite.width = window.innerWidth;
+
+		fadeLayer.x = window.innerWidth / 2;
+		fadeLayer.y = window.innerHeight / 2;
+		fadeLayer.width = window.innerWidth;
+		fadeLayer.height = window.innerHeight;
+
+		uiTextSprite.x = window.innerWidth / 2;
+		uiTextSprite.y = window.innerHeight / 2;
+		uiTextSprite.width = gameBoxSizeConst * 8;
+		uiTextSprite.height = gameBoxSizeConst * 0.8;
+
+		//backgroundSprite.alpha=0.1;
+
+
+		if (person1done == false) player1IsoBlank.alpha = 1;
+		if (person1done == true) player1IsoBlank.alpha = 0;
+		if (person1done == false) player1Iso.alpha = 0;
+		if (person1done == true) player1Iso.alpha = 1;
+
+		if (person2done == false) player2IsoBlank.alpha = 1;
+		if (person2done == true) player2IsoBlank.alpha = 0;
+		if (person2done == false) player2Iso.alpha = 0;
+		if (person2done == true) player2Iso.alpha = 1;
+
+		if (person3done == false) player3IsoBlank.alpha = 1;
+		if (person3done == true) player3IsoBlank.alpha = 0;
+		if (person3done == false) player3Iso.alpha = 0;
+		if (person3done == true) player3Iso.alpha = 1;
+
+		if (person4done == false) player4IsoBlank.alpha = 1;
+		if (person4done == true) player4IsoBlank.alpha = 0;
+		if (person4done == false) player4Iso.alpha = 0;
+		if (person4done == true) player4Iso.alpha = 1;
+
+		player1IsoBlank.nextFrameInLoop(0, 11);
+		player2IsoBlank.nextFrameInLoop(0, 11);
+		player3IsoBlank.nextFrameInLoop(0, 11);
+		player4IsoBlank.nextFrameInLoop(0, 11);
+
+		player1Iso.nextFrameInLoop(0, 11);
+		player2Iso.nextFrameInLoop(0, 11);
+		player3Iso.nextFrameInLoop(0, 11);
+		player4Iso.nextFrameInLoop(0, 11);
+
+		playerFrontBlank.nextFrameInLoop(0, 11);
+
+		player1Front.nextFrameInLoop(0, 11);
+		player2Front.nextFrameInLoop(0, 11);
+		player3Front.nextFrameInLoop(0, 11);
+		player4Front.nextFrameInLoop(0, 11);
+
+		///ISO
+		{
+			player1IsoBlank.x = window.innerWidth / 2 - gameBoxSize * 0.90;
+			player1IsoBlank.y = window.innerHeight / 2 - gameBoxSize * 2.7;
+			player1IsoBlank.height = gameBoxSize * 2;
+			player1IsoBlank.width = gameBoxSize * 2;
+
+			player2IsoBlank.x = window.innerWidth / 2 - gameBoxSize * 1.0;
+			player2IsoBlank.y = window.innerHeight / 2 - gameBoxSize * -2.7;
+			player2IsoBlank.height = gameBoxSize * 2;
+			player2IsoBlank.width = gameBoxSize * 2;
+
+			player3IsoBlank.x = window.innerWidth / 2 - gameBoxSize * 4.0;
+			player3IsoBlank.y = window.innerHeight / 2 - gameBoxSize * 0.4;
+			player3IsoBlank.height = gameBoxSize * 2;
+			player3IsoBlank.width = gameBoxSize * 2;
+
+			player4IsoBlank.x = window.innerWidth / 2 + gameBoxSize * 2.2;
+			player4IsoBlank.y = window.innerHeight / 2 - gameBoxSize * 0.3;
+			player4IsoBlank.height = gameBoxSize * 2;
+			player4IsoBlank.width = gameBoxSize * 2;
+
+			///
+			player1Iso.x = window.innerWidth / 2 - gameBoxSize * 0.90;
+			player1Iso.y = window.innerHeight / 2 - gameBoxSize * 2.7;
+			player1Iso.height = gameBoxSize * 2;
+			player1Iso.width = gameBoxSize * 2;
+
+			player2Iso.x = window.innerWidth / 2 - gameBoxSize * 1.0;
+			player2Iso.y = window.innerHeight / 2 - gameBoxSize * -2.7;
+			player2Iso.height = gameBoxSize * 2;
+			player2Iso.width = gameBoxSize * 2;
+
+			player3Iso.x = window.innerWidth / 2 - gameBoxSize * 4.0;
+			player3Iso.y = window.innerHeight / 2 - gameBoxSize * 0.4;
+			player3Iso.height = gameBoxSize * 2;
+			player3Iso.width = gameBoxSize * 2;
+
+			player4Iso.x = window.innerWidth / 2 + gameBoxSize * 2.2;
+			player4Iso.y = window.innerHeight / 2 - gameBoxSize * 0.3;
+			player4Iso.height = gameBoxSize * 2;
+			player4Iso.width = gameBoxSize * 2;
+		}
+
+		///front
+		{
+			playerFrontBlank.x = window.innerWidth / 2;
+			playerFrontBlank.y = window.innerHeight / 2 - gameBoxSize * 1.2;
+
+			///
+			player1Front.x = window.innerWidth / 2;
+			player1Front.y = window.innerHeight / 2 - gameBoxSize * 1.2;
+
+			player2Front.x = window.innerWidth / 2;
+			player2Front.y = window.innerHeight / 2 - gameBoxSize * 1.2;
+
+			player3Front.x = window.innerWidth / 2;
+			player3Front.y = window.innerHeight / 2 - gameBoxSize * 1.2;
+
+			player4Front.x = window.innerWidth / 2;
+			player4Front.y = window.innerHeight / 2 - gameBoxSize * 1.2;
+
+			playerFrontBlank.width = playerFrontBlank.height = player1Front.width = player1Front.height = player2Front.width = player2Front.height = player3Front.width = player3Front.height = player4Front.width = player4Front.height = gameBoxSize * 5;
+
+			if (window.innerHeight > window.innerWidth) {
+
+				playerFrontBlank.width = playerFrontBlank.height = player1Front.width = player1Front.height = player2Front.width = player2Front.height = player3Front.width = player3Front.height = player4Front.width = player4Front.height = gameBoxSize * 9;
+			}
+		}
+
+		//uiIconBlank
+		var iconSize = 2;
+		var gameIntervalIconMultyplicator = 0.9;
+		var bottomShift = gameBoxSizeConst * 0.2;
+
+		if (window.innerHeight > window.innerWidth) {
+			iconSize = 2.5;
+			gameIntervalIconMultyplicator = 1.2;
+			bottomShift = gameBoxSizeConst * 0.4;
+		}
+
+		uiPanel.x = window.innerWidth / 2;
+		uiPanel.y = window.innerHeight - gameBoxSizeConst * 1.0 - bottomShift;
+		uiPanel.width = gameBoxSizeConst * 7 + gameIntervalIconMultyplicator * gameBoxSizeConst * 0.5;
+		if (window.innerHeight > window.innerWidth) uiPanel.width = gameBoxSizeConst * 7 + gameBoxSizeConst * 2.6;
+		uiPanel.height = gameBoxSizeConst * iconSize;
+
+		uiIconBlank.x = window.innerWidth / 2;
+		uiIconBlank.y = window.innerHeight - gameBoxSizeConst * 3.3;
+		if (window.innerHeight > window.innerWidth) uiIconBlank.y = window.innerHeight - gameBoxSizeConst * 4;
+		uiIconBlank.width = gameBoxSizeConst * iconSize;
+		uiIconBlank.height = gameBoxSizeConst * iconSize;
+
+		if (uiIcon1.dragging == false) uiIcon1.x = window.innerWidth / 2 - gameBoxSizeConst * 3 * gameIntervalIconMultyplicator;
+		if (uiIcon1.dragging == false) uiIcon1.y = window.innerHeight - gameBoxSizeConst * 1.0 - bottomShift;
+
+		if (person1done == true) uiIcon1.x = uiIconBlank.x;
+		if (person1done == true) uiIcon1.y = uiIconBlank.y;
+
+		uiIcon1.width = gameBoxSizeConst * iconSize;
+		uiIcon1.height = gameBoxSizeConst * iconSize;
+
+		if (uiIcon2.dragging == false) uiIcon2.x = window.innerWidth / 2 - gameBoxSizeConst * 1 * gameIntervalIconMultyplicator;
+		if (uiIcon2.dragging == false) uiIcon2.y = window.innerHeight - gameBoxSizeConst * 1.0 - bottomShift;
+
+		if (person2done == true) uiIcon2.x = uiIconBlank.x;
+		if (person2done == true) uiIcon2.y = uiIconBlank.y;
+
+		uiIcon2.width = gameBoxSizeConst * iconSize;
+		uiIcon2.height = gameBoxSizeConst * iconSize;
+
+		if (uiIcon3.dragging == false) uiIcon3.x = window.innerWidth / 2 + gameBoxSizeConst * 1 * gameIntervalIconMultyplicator;
+		if (uiIcon3.dragging == false) uiIcon3.y = window.innerHeight - gameBoxSizeConst * 1.0 - bottomShift;
+
+		if (person3done == true) uiIcon3.x = uiIconBlank.x;
+		if (person3done == true) uiIcon3.y = uiIconBlank.y;
+
+		uiIcon3.width = gameBoxSizeConst * iconSize;
+		uiIcon3.height = gameBoxSizeConst * iconSize;
+
+		if (uiIcon4.dragging == false) uiIcon4.x = window.innerWidth / 2 + gameBoxSizeConst * 3 * gameIntervalIconMultyplicator;
+		if (uiIcon4.dragging == false) uiIcon4.y = window.innerHeight - gameBoxSizeConst * 1.0 - bottomShift;
+
+		if (person4done == true) uiIcon4.x = uiIconBlank.x;
+		if (person4done == true) uiIcon4.y = uiIconBlank.y;
+
+		uiIcon4.width = gameBoxSizeConst * iconSize;
+		uiIcon4.height = gameBoxSizeConst * iconSize;
+
+		///
+		uiIcon1Empty.x = window.innerWidth / 2 - gameBoxSizeConst * 3 * gameIntervalIconMultyplicator;
+		uiIcon1Empty.y = window.innerHeight - gameBoxSizeConst * 1.0 - bottomShift;
+		uiIcon1Empty.width = gameBoxSizeConst * iconSize;
+		uiIcon1Empty.height = gameBoxSizeConst * iconSize;
+
+		uiIcon2Empty.x = window.innerWidth / 2 - gameBoxSizeConst * 1 * gameIntervalIconMultyplicator;
+		uiIcon2Empty.y = window.innerHeight - gameBoxSizeConst * 1.0 - bottomShift;
+		uiIcon2Empty.width = gameBoxSizeConst * iconSize;
+		uiIcon2Empty.height = gameBoxSizeConst * iconSize;
+
+		uiIcon3Empty.x = window.innerWidth / 2 + gameBoxSizeConst * 1 * gameIntervalIconMultyplicator;
+		uiIcon3Empty.y = window.innerHeight - gameBoxSizeConst * 1.0 - bottomShift;
+		uiIcon3Empty.width = gameBoxSizeConst * iconSize;
+		uiIcon3Empty.height = gameBoxSizeConst * iconSize;
+
+		uiIcon4Empty.x = window.innerWidth / 2 + gameBoxSizeConst * 3 * gameIntervalIconMultyplicator;
+		uiIcon4Empty.y = window.innerHeight - gameBoxSizeConst * 1.0 - bottomShift;
+		uiIcon4Empty.width = gameBoxSizeConst * iconSize;
+		uiIcon4Empty.height = gameBoxSizeConst * iconSize;
+
+		uiStars1.x = uiStars5.x = window.innerWidth / 2;
+		uiStars1.y = uiStars5.y = 0 + gameBoxSizeConst;
+		uiStars1.width = uiStars5.width = gameBoxSizeConst * 4;
+		uiStars1.height = uiStars5.height = gameBoxSizeConst * 1;
+
+		if (gameUIOpen == false) {
+			var multipicatorForHand = (Math.sin(Date.now() / 150) + 1) / 2;
+			//let multipicatorForHand=(Math.sin(Date.now()/200)+1)/2;
+			//if (Math.cos(Date.now()/200) < 0) uiHandSprite.alpha=0; else uiHandSprite.alpha=1;
+			var deltaDistanceForX = 0;
+			var deltaDistanceForY = 0;
+
+			if (person4done == false) deltaDistanceForX = gameBoxSizeConst;
+			if (person4done == false) deltaDistanceForY = player4Iso.y;
+			if (person3done == false) deltaDistanceForX = gameBoxSizeConst;
+			if (person3done == false) deltaDistanceForY = player3Iso.y;
+			if (person2done == false) deltaDistanceForX = gameBoxSizeConst;
+			if (person2done == false) deltaDistanceForY = player2Iso.y;
+			if (person1done == false) deltaDistanceForX = gameBoxSizeConst;
+			if (person1done == false) deltaDistanceForY = player1Iso.y;
+
+			if (person4done == false) uiHandSprite.x = player4Iso.x + multipicatorForHand * gameBoxSizeConst * 0.5 + gameBoxSizeConst * 0.2;
+			if (person4done == false) uiHandSprite.y = player4Iso.y - multipicatorForHand * gameBoxSizeConst * 0.5 - gameBoxSizeConst * 0.2;
+			if (person3done == false) uiHandSprite.x = player3Iso.x + multipicatorForHand * gameBoxSizeConst * 0.5 + gameBoxSizeConst * 0.2;
+			if (person3done == false) uiHandSprite.y = player3Iso.y - multipicatorForHand * gameBoxSizeConst * 0.5 - gameBoxSizeConst * 0.2;
+			if (person2done == false) uiHandSprite.x = player2Iso.x + multipicatorForHand * gameBoxSizeConst * 0.5 + gameBoxSizeConst * 0.2;
+			if (person2done == false) uiHandSprite.y = player2Iso.y - multipicatorForHand * gameBoxSizeConst * 0.5 - gameBoxSizeConst * 0.2;
+			if (person1done == false) uiHandSprite.x = player1Iso.x + multipicatorForHand * gameBoxSizeConst * 0.5 + gameBoxSizeConst * 0.2;
+			if (person1done == false) uiHandSprite.y = player1Iso.y - multipicatorForHand * gameBoxSizeConst * 0.5 - gameBoxSizeConst * 0.2;
+
+			uiHandSprite.width = gameBoxSizeConst * 1;
+			uiHandSprite.height = gameBoxSizeConst * 1;
+		}
+
+		if (gameUIOpen == true) {
+
+			var _multipicatorForHand = (Math.sin(Date.now() / 200) + 1) / 2;
+			//let multipicatorForHand=(Math.sin(Date.now()/200)+1)/2;
+			//if (Math.cos(Date.now()/400) < 0.3) uiHandSprite.alpha=1; else uiHandSprite.alpha=0;
+			var _deltaDistanceForX = 0;
+			var _deltaDistanceForY = 0;
+
+			if (gameUIOpenFor == 4) _deltaDistanceForX = uiIconBlank.x - uiIcon4.x;
+			if (gameUIOpenFor == 4) _deltaDistanceForY = uiIconBlank.y - uiIcon4.y;
+			if (gameUIOpenFor == 3) _deltaDistanceForX = uiIconBlank.x - uiIcon3.x;
+			if (gameUIOpenFor == 3) _deltaDistanceForY = uiIconBlank.y - uiIcon3.y;
+			if (gameUIOpenFor == 2) _deltaDistanceForX = uiIconBlank.x - uiIcon2.x;
+			if (gameUIOpenFor == 2) _deltaDistanceForY = uiIconBlank.y - uiIcon2.y;
+			if (gameUIOpenFor == 1) _deltaDistanceForX = uiIconBlank.x - uiIcon1.x;
+			if (gameUIOpenFor == 1) _deltaDistanceForY = uiIconBlank.y - uiIcon1.y;
+
+			uiHandSprite.x = uiIconBlank.x - _multipicatorForHand * _deltaDistanceForX;
+			uiHandSprite.y = uiIconBlank.y - _multipicatorForHand * _deltaDistanceForY;
+
+			uiHandSprite.width = gameBoxSizeConst * 1;
+			uiHandSprite.height = gameBoxSizeConst * 1;
+
+			if (Math.cos(Date.now() / 200) > 0) uiHandSprite.x = uiIconBlank.x;
+			if (Math.cos(Date.now() / 200) > 0) uiHandSprite.y = uiIconBlank.y;
+			//if (Math.cos(Date.now()/400) < 0.3) uiHandSprite.alpha=1; else uiHandSprite.alpha=0;
+		}
+		if (person1done == true && person2done == true && person3done == true && person4done == true) uiHandSprite.alpha = 0;
+		if (window.innerHeight > window.innerWidth) uiHandSprite.width = gameBoxSizeConst * 2;
+		if (window.innerHeight > window.innerWidth) uiHandSprite.height = gameBoxSizeConst * 2;
+
+		for (var _i12 = 0; _i12 < 8; _i12++) {
+			uiCoins1[_i12].width = uiCoins1[_i12].height = uiCoins2[_i12].width = uiCoins2[_i12].height = gameBoxSize * 0.5;
+			uiCoins1[_i12].pointToTop = uiCoins1[_i12].pointToTop + gameDelta;
+			uiCoins2[_i12].pointToTop = uiCoins2[_i12].pointToTop + gameDelta;
+
+			if (uiCoins1[_i12].pointToTop > 1000) {
+				uiCoins1[_i12].pointToTop = 0;uiCoins1[_i12].shiftX = Math.floor(Math.random() * 100);
+			}
+			uiCoins2[_i12].pointToTop = uiCoins1[_i12].pointToTop;
+
+			if (_i12 >= 0 && _i12 < 2) uiCoins1[_i12].y = player1Iso.y - uiCoins1[_i12].pointToTop * 0.002 * gameBoxSize * 0.5;
+			if (_i12 >= 2 && _i12 < 4) uiCoins1[_i12].y = player2Iso.y - uiCoins1[_i12].pointToTop * 0.002 * gameBoxSize * 0.5;
+			if (_i12 >= 4 && _i12 < 6) uiCoins1[_i12].y = player3Iso.y - uiCoins1[_i12].pointToTop * 0.002 * gameBoxSize * 0.5;
+			if (_i12 >= 6 && _i12 < 8) uiCoins1[_i12].y = player4Iso.y - uiCoins1[_i12].pointToTop * 0.002 * gameBoxSize * 0.5;
+
+			if (_i12 >= 0 && _i12 < 2) uiCoins1[_i12].x = player1Iso.x + gameBoxSize * 0.5 + uiCoins1[_i12].shiftX * 0.01 * gameBoxSize;
+			if (_i12 >= 2 && _i12 < 4) uiCoins1[_i12].x = player2Iso.x + gameBoxSize * 0.5 + uiCoins1[_i12].shiftX * 0.01 * gameBoxSize;
+			if (_i12 >= 4 && _i12 < 6) uiCoins1[_i12].x = player3Iso.x + gameBoxSize * 0.5 + uiCoins1[_i12].shiftX * 0.01 * gameBoxSize;
+			if (_i12 >= 6 && _i12 < 8) uiCoins1[_i12].x = player4Iso.x + gameBoxSize * 0.5 + uiCoins1[_i12].shiftX * 0.01 * gameBoxSize;
+
+			uiCoins2[_i12].x = uiCoins1[_i12].x;
+			uiCoins2[_i12].y = uiCoins1[_i12].y;
+
+			uiCoins1[_i12].alpha = uiCoins2[_i12].alpha = 1 - uiCoins1[_i12].pointToTop * 0.001;
+
+			if (_i12 >= 0 && _i12 < 2) {
+				if (person1done == true) uiCoins1[_i12].alpha = 0;else uiCoins2[_i12].alpha = 0;
+			}
+			if (_i12 >= 2 && _i12 < 4) {
+				if (person2done == true) uiCoins1[_i12].alpha = 0;else uiCoins2[_i12].alpha = 0;
+			}
+			if (_i12 >= 4 && _i12 < 6) {
+				if (person3done == true) uiCoins1[_i12].alpha = 0;else uiCoins2[_i12].alpha = 0;
+			}
+			if (_i12 >= 6 && _i12 < 8) {
+				if (person4done == true) uiCoins1[_i12].alpha = 0;else uiCoins2[_i12].alpha = 0;
+			}
+		}
+
+		basicText.x = window.innerWidth - gameBoxSizeConst * 4.0;
+		basicText.y = gameBoxSizeConst * 0.3;
+		basicText.text = 'PROGRESS: ' + gameInitialBalance + '%';
+		basicText.style.fontSize = gameBoxSizeConst * 0.4;
+
+		// render the container
+		renderer.render(stage);
+	}
+});
