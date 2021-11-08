@@ -55,9 +55,9 @@ player4FrontTextureFiles[i] = "assets/front/4/" + i + "-min.png";
 }
 
 
-
-
-
+var uiTextSpriteTextureFile="assets/ui/text.png";
+var uiBonus1TextureFile="assets/ui/bonus1.png";
+var uiBonus2TextureFile="assets/ui/bonus2.png";
 
 ///
 
